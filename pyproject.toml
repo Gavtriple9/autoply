@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "autoply"
+version = "0.1.0"
+description = "A python tool to scrape job data from websites"
+authors = ["Gavin Roberts <gavinsroberts13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.32.3"
+selenium = "^4.33.0"
+pandas = "^2.3.0"
+beautifulsoup4 = "^4.13.4"
+
+[tool.poetry.scripts]
+autoply = "autoply.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
