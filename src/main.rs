@@ -7,7 +7,7 @@ const AUTOPLY_VERSION: Option<&str> = option_env!("CARGO_PKG_VERSION");
 fn main() -> Result<()> {
     let command = Command::new("autoply")
         .version(AUTOPLY_VERSION.unwrap_or("unknown"))
-        .about("Global radio data collection")
+        .about("Autoply - A tool for automating job applications")
         .subcommand_required(true)
         .arg_required_else_help(true)
         .subcommands([cli::setup::run()]);
