@@ -16,6 +16,17 @@ OFFER_SELECTOR = ".p-savings-badge__text span"
 
 
 async def get_category_for_card(page: Page, card: ElementHandle) -> str | None:
+    """
+    Get the category heading for a given card element
+
+    Args:
+        page (Page): Playwright page object
+        card (ElementHandle): The card element to find the category for
+
+    Returns:
+        str | None: The category heading text if found, otherwise None
+    """
+
     return await page.evaluate(
         """([card, selector]) => {
             const cardY = card.getBoundingClientRect().top + window.scrollY;
@@ -42,6 +53,15 @@ async def get_category_for_card(page: Page, card: ElementHandle) -> str | None:
 
 
 async def get_card_metrics(page: Page) -> dict:
+    """
+    Get metrics about the card elements on the page
+
+    Args:
+        page (Page): Playwright page object
+
+    Returns:
+        dict: Dictionary containing cardHeight and firstCardY
+    """
     await page.wait_for_selector(CARD_SELECTOR)
 
     return await page.evaluate(
@@ -68,7 +88,40 @@ async def get_card_metrics(page: Page) -> dict:
     )
 
 
+async def is_element_visible(element: ElementHandle) -> bool:
+    """
+    Check if an element is visible in the viewport
+
+    Args:
+        element (ElementHandle): The element to check visibility for
+
+    Returns:
+        bool: True if the element is visible, False otherwise
+    """
+    return await element.evaluate(
+        """(el) => {
+            const rect = el.getBoundingClientRect();
+            return (
+                rect.top >= 0 &&
+                rect.left >= 0 &&
+                rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+                rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+            );
+        }"""
+    )
+
+
 async def extract_text(card: ElementHandle, selector: str) -> str | None:
+    """
+    Extract and clean text from a card element based on the provided selector
+
+    Args:
+        card (ElementHandle): The card element to extract text from
+        selector (str): The CSS selector to locate the text element within the card
+
+    Returns:
+        str | None: The cleaned text if found, otherwise None
+    """
     extract_text = await card.query_selector(selector)
     if extract_text:
         return (await extract_text.inner_text()).strip()
@@ -76,6 +129,13 @@ async def extract_text(card: ElementHandle, selector: str) -> str | None:
 
 
 def add_new_deals(master_list: list, new_deals: list):
+    """
+    Add new deals to the master list, avoiding duplicates based on title
+    Args:
+        master_list (list): Existing list of deals
+        new_deals (list): New deals to add
+    """
+
     existing_titles = {deal["title"] for deal in master_list}
     for deal in new_deals:
         if deal["title"] not in existing_titles:
@@ -83,6 +143,15 @@ def add_new_deals(master_list: list, new_deals: list):
 
 
 def group_deals_by_category(deals: list[dict]) -> list[dict]:
+    """
+    Group deals by their category
+
+    Args:
+        deals (list): List of deal dictionaries
+
+    Returns:
+        list: List of categories with their associated deals
+    """
     grouped = OrderedDict()
 
     for deal in deals:
@@ -110,7 +179,17 @@ def group_deals_by_category(deals: list[dict]) -> list[dict]:
     return {"timestamp": utc_now, "deals": deals}
 
 
-async def scrape_publix(page: Page, pause: float = 1.0) -> list:
+async def scrape_publix(page: Page, pause: float = 0.0) -> list:
+    """
+    Scrape all deals from the Publix weekly ad page by scrolling through the content
+
+    Args:
+        page (Page): Playwright page object
+        pause (float): Pause duration between scrolls
+
+    Returns:
+        list: List of deal dictionaries
+    """
     last_scroll_y = -1
     deals = []
 
@@ -142,25 +221,27 @@ async def scrape_publix(page: Page, pause: float = 1.0) -> list:
         await page.evaluate("(y) => window.scrollTo(0, y)", scroll_y + card_height)
 
         last_scroll_y = scroll_y
+        await asyncio.sleep(pause)
 
     return clean_deals
 
 
 async def scrape_viewport(page: Page) -> list:
+    """
+    Scrape all visible cards in the current viewport
+
+    Args:
+        page (Page): Playwright page object
+
+    Returns:
+        list: List of deal dictionaries
+    """
     cards = await page.query_selector_all(CARD_SELECTOR)
     deals = []
 
     for card in cards:
         # Only cards currently in viewport
-        visible = await page.evaluate(
-            """el => {
-                const r = el.getBoundingClientRect();
-                return r.bottom > 0 && r.top < window.innerHeight;
-            }""",
-            card,
-        )
-
-        if not visible:
+        if not is_element_visible(card):
             continue
 
         title = await extract_text(card, TITLE_SELECTOR)
@@ -211,7 +292,7 @@ async def async_main():
             await asyncio.sleep(10)
             print("Page loaded")
 
-            flat_deals = await scrape_publix(page, pause=0.0)
+            flat_deals = await scrape_publix(page)
             await browser.close()
 
         data = group_deals_by_category(flat_deals)
