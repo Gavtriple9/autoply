@@ -1,3344 +1,2880 @@
-[
-  {
-    "category": "BOGO",
-    "title": "Publix Boneless Skinless Chicken Breasts",
-    "savings": "Save Up To $5.55 Lb",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Smithfield Bacon",
-    "savings": "Save Up To $11.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hellmann's Mayonnaise",
-    "savings": "Save Up To $11.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mrs. Butterworth's Syrup",
-    "savings": "Save Up To $4.65",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Caprisun Juice",
-    "savings": "Save Up To $5.95",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Splenda Zero Calorie Sweeteners",
-    "savings": "Save Up To $10.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Kraft Dressing",
-    "savings": "Save Up To $5.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Smucker's Jelly",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Twinings of London Tea Bags",
-    "savings": "Save Up To $10.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Gia Russa Select Pasta Sauce",
-    "savings": "Save Up To $7.55",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nature's Own Bread",
-    "savings": "Save Up To $7.59",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pop-Secret Premium Popcorn",
-    "savings": "Save Up To $6.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mott's Juice",
-    "savings": "Save Up To $5.25",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lay's Potato Chips",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lance Sandwich Crackers",
-    "savings": "Save Up To $5.46",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Unreal Dark Chocolate Bars",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Daisy Cottage Cheese",
-    "savings": "Save Up To $1.67",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Blue Bunny Mini Swirls Frozen Dairy Dessert",
-    "savings": "Save Up To $6.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Halo Top Ice Cream",
-    "savings": "Save Up To $6.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Gorton's Shrimp or Crab Cakes",
-    "savings": "Save Up To $9.59",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Talenti Sorbetto",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Whole Fruit Fruit Bars",
-    "savings": "Save Up To $5.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Palermo's Primo Thin Pizza",
-    "savings": "Save Up To $12.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Tide Pods or Gain Flings! Laundry Detergent",
-    "savings": "Save Up To $8.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Earth's Best Organic Baby Food",
-    "savings": "Save Up To $4.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Milk-Bone Dog Snacks",
-    "savings": "Save Up To $5.35",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Meow Mix Cat Food",
-    "savings": "Save Up To $7.75",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "EZ Foil Pans With Lids",
-    "savings": "Save Up To $6.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Del Monte Fruit",
-    "savings": "Save Up To $5.45",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Quaker Instant Oatmeal",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Starbucks Coffee Creamer",
-    "savings": "Save Up To $6.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Meat Mitch BBQ Sauce",
-    "savings": "Save Up To $7.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Bodyarmor Sports Drink",
-    "savings": "Save Up To $2.10",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mission Gluten Free Flour Tortillas",
-    "savings": "Save Up To $6.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Quaker Chewy Granola Bars",
-    "savings": "Save Up To $6.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Sara Lee Bread",
-    "savings": "Save Up To $4.45",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Yoplait Go-Gurt Yogurt",
-    "savings": "Save Up To $7.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Jinx Premium Dog Food",
-    "savings": "Save Up To $13.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Dannon Activia Dailies Probiotic Dairy Drink",
-    "savings": "Save Up To $6.59",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Tazo Tea",
-    "savings": "Save Up To $7.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Wilde Protein Chips",
-    "savings": "Save Up To $2.89",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Casa Flores Marcona Almonds",
-    "savings": "Save Up To $8.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Fresh Express Salad Blends",
-    "savings": "Save Up To $5.65",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Stella & Chewy's Meal Topper for Dogs",
-    "savings": "Save Up To $27.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nutpods Dairy-Free Creamer",
-    "savings": "Save Up To $5.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "1st Phorm Level-1 Protein Bar",
-    "savings": "Save Up To $11.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Portland Pet Food Company Homestyle Dog Meal",
-    "savings": "Save Up To $6.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Whisps Cheese Crisps",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Casa Flores Serrano Ham",
-    "savings": "Save Up To $7.55",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Glac\u00e9au Smartwater",
-    "savings": "Save Up To $9.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Magic Spoon Protein Granola",
-    "savings": "Save Up To $10.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mush Overnight Oats",
-    "savings": "Save Up To $2.33",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Seeds of Change Quinoa & Rice",
-    "savings": "Save Up To $3.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Crunchmaster Multiseed Crackers",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lean Body Protein Shake",
-    "savings": "Save Up To $3.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Planters Peanuts",
-    "savings": "Save Up To $4.65",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pure Life Purified Water",
-    "savings": "Save Up To $6.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Thomas' English Muffins",
-    "savings": "Save Up To $5.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Belvita Breakfast Biscuits",
-    "savings": "Save Up To $5.55",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Biolyte Electrolyte Supplement",
-    "savings": "Save Up To $3.60",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Wasa Crisp Creations Crackers",
-    "savings": "Save Up To $4.85",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Post Great Grains Cereal",
-    "savings": "Save Up To $8.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Stella & Chewy's Meal Mixers for Dogs",
-    "savings": "Save Up To $9.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Cocojune Coconut Yogurt Alternative",
-    "savings": "Save Up To $2.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "General Mills Cheerios Cereal",
-    "savings": "Save Up To $9.89",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "V8 100% Juice",
-    "savings": "Save Up To $4.31",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pero Family Farms Mini Sweet Peppers",
-    "savings": "Save Up To $4.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Shamrock Farms Rockin' Protein Builder",
-    "savings": "Save Up To $3.60",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Glac\u00e9au Vitaminwater",
-    "savings": "Save Up To $8.34",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Tasty Nate's Beef Tallow Fried Chips",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nature Valley Granola Bars",
-    "savings": "Save Up To $6.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Suja Organic Juice Drink",
-    "savings": "Save Up To $4.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Bonafide Provisions Broth",
-    "savings": "Save Up To $5.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Entenmann's Little Bites Snacks",
-    "savings": "Save Up To $5.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Oatly! Oatmilk",
-    "savings": "Save Up To $5.89",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hatfield Ham Steak",
-    "savings": "Save Up To $3.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Eight O'Clock Ground Coffee",
-    "savings": "Save Up To $11.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Perfect Bar Refrigerated Protein Bar",
-    "savings": "Save Up To $10.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Publix Seasoned Boneless Chicken Breast",
-    "savings": "Save Up To $5.89 Lb",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "GreenWise Organic White Mushrooms",
-    "savings": "Save Up To $3.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Phalaenopsis Orchids",
-    "savings": "Save Up To $19.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nutty & Fruity Mango",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Strawberries",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Rockit Apples",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Alouette Spreadable Cheese",
-    "savings": "Save Up To $6.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Muffins",
-    "savings": "Save Up To $5.59",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Zephyrhills Spring Water",
-    "savings": "Save Up To $3.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mission Flour Tortillas",
-    "savings": "Save Up To $5.85",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lunchables",
-    "savings": "Save Up To $3.33",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Calbee Harvest Snaps",
-    "savings": "Save Up To $2.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Progresso Soup",
-    "savings": "Save Up To $3.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Sol-Ti Supershot",
-    "savings": "Save Up To $3.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Harmless Harvest Organic Coconut Water",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Badia Garlic Powder",
-    "savings": "Save Up To $5.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Koia Protein Plant-Based Shake",
-    "savings": "Save Up To $4.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hoffman German Brand Franks",
-    "savings": "Save Up To $6.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Doctor D's Organic Sparkling Probiotic Drink",
-    "savings": "Save Up To $2.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hero Classic Bagels",
-    "savings": "Save Up To $11.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "8-Pack 7UP Products",
-    "savings": "Save Up To $8.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pr\u00e9sident Feta Cheese",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Kalahari Biltong",
-    "savings": "Save Up To $8.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lightlife Smart Plant-Based Protein Links",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "6-Pack 7UP Products",
-    "savings": "Save Up To $8.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Yucatan Guacamole",
-    "savings": "Save Up To $6.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Tampico Punch",
-    "savings": "Save Up To $3.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Core Hydration Nutrient Enhanced Water",
-    "savings": "Save Up To $12.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Bfree Wraps",
-    "savings": "Save Up To $6.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mifroma Le Gruy\u00e8re AOP Cheese",
-    "savings": "Save Up To $10.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Beyond Meat Vegan Burger",
-    "savings": "Save Up To $17.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Amylu Breakfast Bites Chicken Sausage",
-    "savings": "Save Up To $5.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Big Mountain Foods Mushroom Burger",
-    "savings": "Save Up To $7.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Progresso Pitmaster Soup",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Kingsford Instant Charcoal Briquets",
-    "savings": "Save Up To $11.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Oscar Mayer P3 Packs",
-    "savings": "Save Up To $2.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Ammerlander Cheese",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Balandra Cuban Crackers",
-    "savings": "Save Up To $2.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Old El Paso Soup",
-    "savings": "Save Up To $4.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Zoup! Soup",
-    "savings": "Save Up To $5.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Cracking Good Cheese Co. Cheddar Cheese",
-    "savings": "Save Up To $7.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Ancient Nutrition Multi Collagen Protein",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Atkins Entr\u00e9e",
-    "savings": "Save Up To $6.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Betty Crocker Fruit Snacks",
-    "savings": "Save Up To $3.83",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Botticelli Premium Pasta Sauce",
-    "savings": "Save Up To $8.25",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Chex Mix Snack",
-    "savings": "Save Up To $4.02",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Core Hydration Nutrient Enhanced Water With Electrolytes and Minerals",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Crystal Light Drink Mix",
-    "savings": "Save Up To $4.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Dash Salt-Free Seasonings",
-    "savings": "Save Up To $4.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Eternal Spring Water",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Evol. Entr\u00e9e",
-    "savings": "Save Up To $6.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Fresh Cravings Hummus",
-    "savings": "Save Up To $4.75",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Green Giant Vegetables",
-    "savings": "Save Up To $2.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Green Giant Vegetables",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Happy Egg Co. Brown Eggs",
-    "savings": "Save Up To $6.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hawk Crest Pinot Gris Wine",
-    "savings": "Save Up To $17.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "6-Pack Heineken 0.0 Beer",
-    "savings": "Save Up To $13.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Hungry Jack Complete Pancake & Waffle Mix",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Jif Peanut Butter",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Jimmy Dean Delights Sandwiches",
-    "savings": "Save Up To $8.75",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Jolly Time Popcorn",
-    "savings": "Save Up To $6.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Just Bare Oven Roasted Chicken Breast Bites",
-    "savings": "Save Up To $15.43",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Kashi Cereal",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Lavazza Ground or Whole Bean",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Luigi's Real Italian Ice",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Donut Shop K-Cup Coffee",
-    "savings": "Save Up To $12.69",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Milton's Baked Crackers",
-    "savings": "Save Up To $4.35",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mott's Applesauce",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mrs. Cubbison's Croutons or Salad Crisps",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Muir Glen Organic Tomatoes",
-    "savings": "Save Up To $5.25",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nathan's Famous Bagel Dogs",
-    "savings": "Save Up To $9.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Nature's Truth Supplements",
-    "savings": "Save Up To $45.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "The Original Bomb Pop or Skinny Cow Ice Cream Cones or Sandwich Snacker",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Carbe Diem! Pasta",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Trolli Gummi Pop",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Local Hive Raw & Unfiltered Honey",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Sicilian Village Marinated Olives",
-    "savings": "Save Up To $6.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Churu Cat Treat Tube, Tuna & Chicken Recipe, Unique Creamy Treat!",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Easy-Off Oven Cleaner",
-    "savings": "Save Up To $6.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Educated Guess Pinot Noir Wine",
-    "savings": "Save Up To $26.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Fitvine California Cabernet Sauvignon Wine",
-    "savings": "Save Up To $17.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "PB Fit Peanut Butter Powder",
-    "savings": "Save Up To $10.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Outshine Fruit Bars",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Oxiclean Stain Remover",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pepperidge Farm Goldfish Baked Snack Crackers or Cookies",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pillsbury Grands! Biscuits",
-    "savings": "Save Up To $3.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Polaner Preserves, Jam or Marmalade",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Pompeian Imported Olive Oil",
-    "savings": "Save Up To $25.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Poppi Prebiotic Soda",
-    "savings": "Save Up To $2.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Premier Protein Ready to Drink Protein Shake",
-    "savings": "Save Up To $3.29",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Purely Elizabeth. Granola",
-    "savings": "Save Up To $7.45",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Right Guard Anti-Perspirant Deodorant",
-    "savings": "Save Up To $5.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Russell Stover Sugar Free Chocolates",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Sensible Portions Snacks",
-    "savings": "Save Up To $4.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Snapple Tea",
-    "savings": "Save Up To $9.09",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "SuperPretzel Soft Pretzels",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Sweet 'n Low Sweetener",
-    "savings": null,
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Truly Grass-Fed Natural Creamy Butter",
-    "savings": "Save Up To $10.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Tyson Chicken Nuggets",
-    "savings": "Save Up To $9.05",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Van's Waffles",
-    "savings": "Save Up To $12.49",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Vanity Fair Napkins",
-    "savings": "Save Up To $4.15",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Vigo Saffron Yellow Rice",
-    "savings": "Save Up To $1.59",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Wish-Bone Dressing",
-    "savings": "Save Up To $3.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Mambo Pandebono",
-    "savings": "Save Up To $5.99",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Juanita's Cooking Sauce",
-    "savings": "Save Up To $7.79",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Kiosco Tres Leches",
-    "savings": "Save Up To $7.19",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "BOGO",
-    "title": "Toufayan Keto Pita Bread",
-    "savings": "Save Up To $5.39",
-    "offer": "Buy 1 Get 1 Free"
-  },
-  {
-    "category": "New",
-    "title": "Chocolate and Almond Bretzel Pastry",
-    "savings": "Save Up To $1.00, New",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Bakery",
-    "title": "Assorted Macarons",
-    "savings": "Save Up To $1.00",
-    "offer": "$8.99"
-  },
-  {
-    "category": "Bakery",
-    "title": "Cake Donuts",
-    "savings": "Save Up To $0.60",
-    "offer": "$3.29"
-  },
-  {
-    "category": "Bakery",
-    "title": "Cinnamon Swirl Creme Cake",
-    "savings": "Save Up To $0.60",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Bakery",
-    "title": "Sourdough Round Bread",
-    "savings": "Surprisingly Low Price",
-    "offer": "$4.79"
-  },
-  {
-    "category": "Bakery",
-    "title": "French Hamburger Buns",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.19"
-  },
-  {
-    "category": "Bakery",
-    "title": "GreenWise Bagels",
-    "savings": null,
-    "offer": "$2.00"
-  },
-  {
-    "category": "Bakery",
-    "title": "Decadent Cake Slices",
-    "savings": "Save Up To $0.60",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Cooked Sweet Ham",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head\u00ae Bold Pitcraft Smoked Turkey Salad",
-    "savings": "Save Up To $2.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Wild Caught Salmon Salad",
-    "savings": "Save Up To $3.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Fresh Mozzarella Cheese",
-    "savings": "Save Up To $1.00",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Southern Cobb Salad",
-    "savings": "Save Up To $1.50",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Chicken Caesar Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Traditional Greek-Style Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head\u00ae Lower Sodium Turkey Breast",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$14.99 lb"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Whole Turkey Sub",
-    "savings": "Save Up To $2.00",
-    "offer": "$7.99 each"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Fried Popcorn Chicken",
-    "savings": "Save Up To $0.50",
-    "offer": "$5.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Volcano Roll Dip",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.69"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Flatbread Pizza",
-    "savings": "Save Up To $1.50",
-    "offer": "$7.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Smoked Pulled Pork Meal",
-    "savings": "Save Up To $0.50",
-    "offer": "$8.99 each"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Louisiana-Style Shrimp Fettuccine Meal",
-    "savings": "Save Up To $1.00",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Chicken Breast Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Chef Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Strawberry & Glazed Pecan Salad",
-    "savings": "Save Up To $2.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Bold Chef Salad",
-    "savings": "Save Up To $2.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Belgioioso Fresh Mozzarella Cheese",
-    "savings": "Save Up To $3.38 On 2",
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Turkey Cobb Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Quiche Lorraine",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Diced Pancetta",
-    "savings": "Save Up To $2.00",
-    "offer": "$3.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Stacy's Sharing Size Pita Chips",
-    "savings": "Save Up To $4.98 On 2",
-    "offer": "2 for $11.00"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Southwest Chicken Tender Fajita Salad",
-    "savings": "Save Up To $1.50",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Ithaca Hummus",
-    "savings": "Save Up To $2.50",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Cooked Ham",
-    "savings": "Save Up To $2.00",
-    "offer": "$5.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Publix Colby Jack Cheese",
-    "savings": "Save Up To $1.60 Lb",
-    "offer": "$5.99 lb"
-  },
-  {
-    "category": "Deli",
-    "title": "Gayo Azul Gouda Cheese",
-    "savings": "Save Up To $2.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Belgioioso Sharp Provolone Cheese",
-    "savings": "Save Up To $2.50",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Yellow or White American Cheese",
-    "savings": "Save Up To $2.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Creamy Blue Cheese Crumbles",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.79"
-  },
-  {
-    "category": "Deli",
-    "title": "Greek Isle Barrel Aged Feta Cheese",
-    "savings": "Save Up To $1.50",
-    "offer": "$4.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Breakfast Pork Sausage Patties",
-    "savings": "Save Up To $2.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Cream Havarti Cheese",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$12.99 lb"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Goat Cheese",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.39"
-  },
-  {
-    "category": "Deli",
-    "title": "Yancey's Fancy Cheese",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Jarlsberg Cheese",
-    "savings": "Save Up To $2.30",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Sartori Montamor\u00e9 Cheese Bites",
-    "savings": "Save Up To $5.38 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Deli",
-    "title": "Boar's Head Creamy Blue Cheese",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.79"
-  },
-  {
-    "category": "Deli",
-    "title": "Fiscalini Purple Moon Cheddar Cheese",
-    "savings": "Save Up To $1.00",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Effie's Homemade Nutcake",
-    "savings": "Save Up To $1.00",
-    "offer": "$7.49"
-  },
-  {
-    "category": "Deli",
-    "title": "Firehook Crackers",
-    "savings": null,
-    "offer": "$5.99"
-  },
-  {
-    "category": "Deli",
-    "title": "Snack Factory Pretzel Crisps",
-    "savings": "Your Choice",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Floral",
-    "title": "Shades of Passion Bouquet",
-    "savings": "Save Up To $1.00",
-    "offer": "$21.99 Each"
-  },
-  {
-    "category": "Floral",
-    "title": "Tulip Bouquet",
-    "savings": null,
-    "offer": "$7.99 each"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Organic Chicken Drumsticks",
-    "savings": "Save Up To $1.30 Lb",
-    "offer": "$2.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Organic Chicken Tenders",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Organic Chicken Breast Fillets",
-    "savings": "Save Up To $3.00 Lb",
-    "offer": "$6.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Assorted Pork Loin Chops",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$3.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Bottom Round Roast",
-    "savings": "Save Up To $2.50 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Pork Italian Sausage",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.69"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Stuffed Jalape\u00f1o Peppers",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$9.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Kevin's Natural Foods Chicken Entr\u00e9es",
-    "savings": "Save Up To $2.20",
-    "offer": "$8.99"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Ribeye Steak",
-    "savings": "Save Up To $6.00 Lb",
-    "offer": "$17.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Boneless Top Sirloin Steak",
-    "savings": "Save Up To $3.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Flank Steak",
-    "savings": "Save Up To $3.00 Lb",
-    "offer": "$11.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Gourmet Meatballs",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Lean Ground Beef",
-    "savings": "Save Up To $1.84 Lb",
-    "offer": "$8.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Ground Chuck",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Mild or Hot Italian Pork Sausage",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.69"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Pork Loin Rib Chops",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$4.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Ground Chicken",
-    "savings": "Save Up To $2.70",
-    "offer": "$3.49"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Pork Loin Chops",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$4.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Organic Boneless Chicken Thighs",
-    "savings": "Save Up To $2.40 Lb",
-    "offer": "$6.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Maverick Ranch Organic Ground Beef",
-    "savings": "Save Up To $1.00",
-    "offer": "$10.49"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Uncured Bacon",
-    "savings": "Save Up To $1.10",
-    "offer": "$4.39"
-  },
-  {
-    "category": "Meat",
-    "title": "Top Sirloin for Kabobs",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$9.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Top Sirloin Fillet",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$12.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Bottom Round Steaks",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Wahlburgers Sliders",
-    "savings": "Save Up To $1.00",
-    "offer": "$12.49"
-  },
-  {
-    "category": "Meat",
-    "title": "Shoulder London Broil",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Outside Skirt Steak",
-    "savings": "Save Up To $3.00 Lb",
-    "offer": "$20.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Seasoned Beef Meatloaf",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Top Sirloin Fillet",
-    "savings": "Save Up To $1.50 Lb",
-    "offer": "$10.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Lunch Meats",
-    "savings": "Save Up To $2.38 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Meat",
-    "title": "Boneless Shoulder Steaks",
-    "savings": "Save Up To $3.50 Lb",
-    "offer": "$9.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Top Sirloin Steak",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$11.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Florida Raised Grass-Fed Ground Beef",
-    "savings": "Save Up To $2.00",
-    "offer": "$9.99"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Ground Chuck Burgers",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$9.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Spiral-Sliced Ham",
-    "savings": "Save Up To $2.20 Lb",
-    "offer": "$2.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Sahlen's Hot Dogs",
-    "savings": "Save Up To $6.10 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Meat",
-    "title": "Top Sirloin Steaks",
-    "savings": "Save Up To $3.00 Lb",
-    "offer": "$9.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Rump Roast",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$8.29 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Top Sirloin Cap Steak",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$12.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Beef Back Ribs",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$5.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Perdue Air Fryer Wings",
-    "savings": "Save Up To $4.00",
-    "offer": "$9.39"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Pork Sausage",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.69"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Beef Meatloaf Stuffed Peppers",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Semi-Boneless Ham Half",
-    "savings": "Save Up To $2.40 Lb",
-    "offer": "$1.59 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Pork Loin Center Rib Roast",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$4.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Standing Rib Roast",
-    "savings": "Save Up To $6.00 Lb",
-    "offer": "$17.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Beef Brisket & Pork Belly Burger",
-    "savings": "Save Up To $3.00",
-    "offer": "$9.99"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix 93% Lean Beef Burgers",
-    "savings": "Save Up To $1.84 Lb",
-    "offer": "$9.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Lean Pork Loin Roast",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$5.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Whole Shoulder",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Ball Park Angus Beef Franks",
-    "savings": null,
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Meat",
-    "title": "Hillshire Farm Lunch Meats",
-    "savings": null,
-    "offer": "$6.99"
-  },
-  {
-    "category": "Meat",
-    "title": "Johnsonville Sausage Links",
-    "savings": null,
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Meat",
-    "title": "Kevin's Natural Foods Side Dishes",
-    "savings": null,
-    "offer": "2/$9.00"
-  },
-  {
-    "category": "Meat",
-    "title": "Schweid & Sons The Butcher's Blend Ground Beef",
-    "savings": null,
-    "offer": "$7.29"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Ribeye Steak Boneless",
-    "savings": null,
-    "offer": "$20.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Lean Pork Loin Chops",
-    "savings": null,
-    "offer": "$6.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Lean Pork Loin Chops - Thinly-Sliced",
-    "savings": null,
-    "offer": "$6.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Potato Skins With Cream Cheese",
-    "savings": null,
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Angus Flank Steak, USDA Choice Beef",
-    "savings": null,
-    "offer": "$13.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Seasoned Beef Meatballs",
-    "savings": null,
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Shoulder Roast Boneless",
-    "savings": null,
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Ground Pork",
-    "savings": null,
-    "offer": "$3.49 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise 93% Lean Ground Turkey",
-    "savings": null,
-    "offer": "$4.99"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Lamb Loin Chops",
-    "savings": null,
-    "offer": "$10.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "GreenWise Ground Turkey Breast",
-    "savings": null,
-    "offer": "$7.99"
-  },
-  {
-    "category": "Meat",
-    "title": "Lean Ground Beef Burgers",
-    "savings": null,
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Publix Chicken Drumsticks",
-    "savings": null,
-    "offer": "$1.99 lb"
-  },
-  {
-    "category": "Meat",
-    "title": "Steakhouse Elite Ground Beef Burger With Brisket",
-    "savings": null,
-    "offer": "$10.09"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Organic Baby Carrots",
-    "savings": "Save Up To $0.98 On 2",
-    "offer": "2 for $4.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Hot House Cucumbers",
-    "savings": "Save Up To $1.00 On 2",
-    "offer": "2 for $5.00 Each"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Organic Salads",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $7.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Sunset Flavor Bombs Organic Tomatoes",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Broccoli or Cauliflower",
-    "savings": "Save Up To $1.00",
-    "offer": "$2.99 each"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Romaine Hearts",
-    "savings": "Save Up To $1.50",
-    "offer": "$3.49"
-  },
-  {
-    "category": "Produce",
-    "title": "Hass Avocados",
-    "savings": "Save Up To $0.32 On 4",
-    "offer": "4 for $5.00 Each"
-  },
-  {
-    "category": "Produce",
-    "title": "Pero Family Farms Green Beans",
-    "savings": "Save Up To $1.50",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Red Potatoes",
-    "savings": "Save Up To $2.00",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Grape Tomatoes",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $4.00"
-  },
-  {
-    "category": "Produce",
-    "title": "White or Red Seedless Grapes",
-    "savings": "Save Up To $0.50 Lb",
-    "offer": "$3.49 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Mangos",
-    "savings": "Save Up To $2.50 On 3",
-    "offer": "3 for $5.00 each"
-  },
-  {
-    "category": "Produce",
-    "title": "Navel Oranges",
-    "savings": "Save Up To $0.80 Lb",
-    "offer": "$1.69 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Blackberries or Red Raspberries",
-    "savings": "Save Up To $4.97 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Organic Mandarins",
-    "savings": "Save Up To $2.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Tropicana Pure Premium Orange Juice",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Fruit Salad",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$3.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Fresh Attitude Salads",
-    "savings": "Save Up To $1.97 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Taylor Farms Chopped Salads",
-    "savings": "Save Up To $2.98 On 2",
-    "offer": "2 for $7.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Kiwi Pineapple Fruit Salad Mix",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$5.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Red Dragon Fruit",
-    "savings": "Save Up To $3.98 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Red Navel Oranges",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Kale Greens",
-    "savings": "Save Up To $1.00 On 3",
-    "offer": "3 for $5.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Natalie's Orchid Island Juice",
-    "savings": "Save Up To $1.77 On 3",
-    "offer": "3 for $6.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Broccoli Florets",
-    "savings": "Save Up To $2.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Organic Round Tomatoes",
-    "savings": "Save Up To $1.00",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Spice World Minced Garlic",
-    "savings": "Save Up To $1.10",
-    "offer": "$1.89"
-  },
-  {
-    "category": "Produce",
-    "title": "So Good So You Organic Juice Shot",
-    "savings": "Save Up To $3.16 On 4",
-    "offer": "4 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Snapdragon Apples",
-    "savings": "Save Up To $1.00",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Pero Family Farms Bell Peppers and Onions",
-    "savings": "Save Up To $1.00",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Pero Family Farms Broccoletti",
-    "savings": "Save Up To $1.97 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Organic Oranges",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Florida Oranges",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Naked Juice Smoothie",
-    "savings": "Save Up To $3.99 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Produce",
-    "title": "221 B.C. Organic Kombucha",
-    "savings": "Save Up To $2.87 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Tangerines",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Wonderful Pistachios",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.49"
-  },
-  {
-    "category": "Produce",
-    "title": "Good Foods Avocado Salsa",
-    "savings": "Save Up To $3.98 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Pero Family Farms Vegetables",
-    "savings": "Save Up To $1.97 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Sambazon Acai Superfruit Organic Juice",
-    "savings": "Save Up To $2.98 On 2",
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Produce",
-    "title": "GT's Synergy Raw Kombucha",
-    "savings": "Save Up To $3.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Magic Mind Mental Performance Shot",
-    "savings": "Save Up To $1.97 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Fruit & Nut Salad",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Arden's Garden Fruit Juice",
-    "savings": "Save Up To $10.98 On 2",
-    "offer": "2 for $25.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Yo Quiero! Queso Blanco",
-    "savings": "Save Up To $1.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Bolthouse Farms Dressings",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Cosmic Crisp Apples or Pink Lady Apples, Large",
-    "savings": null,
-    "offer": "$1.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Cherries, Extra Large",
-    "savings": null,
-    "offer": "$4.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Persian Limes",
-    "savings": null,
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Blueberries",
-    "savings": null,
-    "offer": "2/$10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Sumo Citrus",
-    "savings": null,
-    "offer": "$3.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Asparagus",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$3.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Beefsteak Tomato",
-    "savings": null,
-    "offer": "$1.99 lb"
-  },
-  {
-    "category": "Produce",
-    "title": "Rapini",
-    "savings": null,
-    "offer": "$3.49 each"
-  },
-  {
-    "category": "Produce",
-    "title": "Pineberries",
-    "savings": null,
-    "offer": "2/$10.00"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Hemp Seeds",
-    "savings": "Save Up To $3.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Yellow Onions",
-    "savings": null,
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Publix Green Beans",
-    "savings": null,
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Produce",
-    "title": "GreenWise Organic Gala Apples or Organic Lady Alice Apples",
-    "savings": null,
-    "offer": "$3.99"
-  },
-  {
-    "category": "Produce",
-    "title": "Tropicana Refreshers",
-    "savings": null,
-    "offer": "2/$6.00"
-  },
-  {
-    "category": "Produce",
-    "title": "Sugarbee Apples",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$2.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "GreenWise Flounder Fillets",
-    "savings": "Surprisingly Low Price",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "GreenWise Sockeye Salmon Fillets",
-    "savings": "Save Up To $5.00",
-    "offer": "$14.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Salmon Fillets",
-    "savings": "Save Up To $2.00 Lb",
-    "offer": "$11.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "White Shrimp",
-    "savings": "Save Up To $4.00 Lb",
-    "offer": "$6.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "Catfish Fillets",
-    "savings": "Save Up To $1.00 Lb",
-    "offer": "$8.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "Starkist Wild Caught Light Tuna",
-    "savings": "Save Up To $1.36 On 4",
-    "offer": "4 for $5.00"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix White Shrimp",
-    "savings": "Save Up To $7.50",
-    "offer": "$11.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix Cooked Shrimp",
-    "savings": "Save Up To $9.00",
-    "offer": "$17.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Ducktrap Spruce Point Smoked Salmon",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "GreenWise White Shrimp",
-    "savings": "Save Up To $4.00",
-    "offer": "$10.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Smilin' Bob's Smoked Fish Dip",
-    "savings": "Save Up To $1.00",
-    "offer": "$8.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "GreenWise Large White Shrimp",
-    "savings": "Save Up To $7.50",
-    "offer": "$13.49"
-  },
-  {
-    "category": "Seafood",
-    "title": "Cedar Bay Cedar Planked Salmon",
-    "savings": "Save Up To $3.00",
-    "offer": "$9.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Annasea Ahi Tuna Poke Kit",
-    "savings": "Save Up To $3.00",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "GreenWise Cooked Shrimp",
-    "savings": "Save Up To $9.00",
-    "offer": "$19.49"
-  },
-  {
-    "category": "Seafood",
-    "title": "Bacon Cheddar Salmon Burger",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix Crab Cakes",
-    "savings": "Save Up To $2.00",
-    "offer": "$8.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Chicken of the Sea Solid White Albacore Tuna",
-    "savings": "Save Up To $2.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "White Shrimp, Peeled & Deveined",
-    "savings": null,
-    "offer": "$7.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "Mahi Mahi Select Cuts",
-    "savings": null,
-    "offer": "$8.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Cooked Shrimp",
-    "savings": null,
-    "offer": "$11.99 lb"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix Hand-Breaded Panko Shrimp",
-    "savings": "Surprisingly Low Price",
-    "offer": "$6.00"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix Mini Crab Cakes With Sweet Heat Sauce",
-    "savings": null,
-    "offer": "$7.99"
-  },
-  {
-    "category": "Seafood",
-    "title": "Publix Shrimp Scampi",
-    "savings": null,
-    "offer": "$7.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Barefoot Pinot Grigio Wine",
-    "savings": "Surprisingly Low Price",
-    "offer": "$10.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Barefoot Bubbly Brut Cuv\u00e9e or Pink Moscato Sparkling Wine",
-    "savings": null,
-    "offer": "$9.49"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "18-Pack Bud Light Beer",
-    "savings": null,
-    "offer": "$17.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "18-Pack Busch Light Beer",
-    "savings": null,
-    "offer": "$14.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Corona Extra Beer or Pacifico Pilsner",
-    "savings": null,
-    "offer": "$16.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Josh Cellars North Coast Reserve Cabernet Sauvignon Wine",
-    "savings": null,
-    "offer": "$16.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Josh Cellars Cabernet Sauvignon Wine",
-    "savings": "Surprisingly Low Price",
-    "offer": "$10.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "6-Pack Lagunitas Brewing Co. Beer",
-    "savings": null,
-    "offer": "$11.79"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Michelob Ultra Beer",
-    "savings": "Save Up To $2.40",
-    "offer": "$14.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Michelob Ultra Zero Beer",
-    "savings": "Save Up To $4.00",
-    "offer": "$14.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Mionetto Alcohol-Removed Sparkling Wine",
-    "savings": null,
-    "offer": "$11.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Fre Chardonnay Wine",
-    "savings": "Save Up To $1.50",
-    "offer": "$8.49"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "Juggernaut Cabernet Sauvignon Wine",
-    "savings": null,
-    "offer": "$16.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Sierra Nevada Brewing Co. Beer",
-    "savings": "Save Up To $2.50",
-    "offer": "$19.49"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Stella Artois Lager",
-    "savings": "Save Up To $3.00",
-    "offer": "$16.99"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack Twisted Tea Hard Iced Tea",
-    "savings": null,
-    "offer": "$19.49"
-  },
-  {
-    "category": "Beer & Wine",
-    "title": "12-Pack White Claw Hard Seltzer",
-    "savings": null,
-    "offer": "$19.99"
-  },
-  {
-    "category": "Dairy",
-    "title": "Bizzy Cold Brew Coffee",
-    "savings": "Save Up To $3.98 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Dairy",
-    "title": "Chomps Beef Sticks",
-    "savings": "Save Up To $4.60",
-    "offer": "$16.99"
-  },
-  {
-    "category": "Dairy",
-    "title": "A2 Milk, 59-oz or Half and Half",
-    "savings": null,
-    "offer": "2/$9.00"
-  },
-  {
-    "category": "Dairy",
-    "title": "Heluva Good! French Onion Dip",
-    "savings": null,
-    "offer": "2 for $4.00"
-  },
-  {
-    "category": "Dairy",
-    "title": "Kraft Shredded Cheese",
-    "savings": null,
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Dairy",
-    "title": "Publix Cheese Slices",
-    "savings": null,
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Dairy",
-    "title": "Publix Mozzarella String Cheese",
-    "savings": null,
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "GreenWise Frozen Organic Vegetables",
-    "savings": "Save Up To $0.78 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Marie Callender's Bowl",
-    "savings": "Surprisingly Low Price",
-    "offer": "3 for $9.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Publix Ice Cream",
-    "savings": "Save Up To $3.18 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "GreenWise Organic Whole Fruit",
-    "savings": "Save Up To $1.78 On 2",
-    "offer": "2 for $7.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Canyon Bakehouse Bread, Bagels or Rolls",
-    "savings": "Your Choice",
-    "offer": "$6.49"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Healthy Choice Bowls, or Marie Callender's or Dolly Parton's Meals",
-    "savings": null,
-    "offer": "2/$7.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Pilgrim's Frozen Fully Cooked Chicken",
-    "savings": "Your Choice",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Publix French Toast Sticks",
-    "savings": null,
-    "offer": "2 for $7.00"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "$5 off When You Spend $20 on Any Rana Items",
-    "savings": null,
-    "offer": "$5.00 off $20.00 WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Frozen Food",
-    "title": "Stouffer's Family Size Entr\u00e9e",
-    "savings": null,
-    "offer": "$8.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Tomato Ketchup",
-    "savings": "Save Up To $0.40",
-    "offer": "$2.59"
-  },
-  {
-    "category": "Grocery",
-    "title": "On The Border Tortilla Chips",
-    "savings": "Save Up To $4.29 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Lacroix Sparkling Water",
-    "savings": "Save Up To $6.79 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "12-Pack Pepsi Products",
-    "savings": "Save Up To $23.98 On 4",
-    "offer": "Buy 2 Get 2 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Spring Water",
-    "savings": "Save Up To $2.47 On 3",
-    "offer": "3 for $11.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Grated Cheese",
-    "savings": "Save Up To $2.58 On 2",
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Baking Nuts",
-    "savings": "Save $1.00",
-    "offer": "$1.00 Off"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Maple Syrup",
-    "savings": "Save Up To $1.00",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Yum Yum Sauce",
-    "savings": "Save Up To $1.00",
-    "offer": "$3.49"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Water Enhancer",
-    "savings": "Save Up To $0.78 On 2",
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Honey",
-    "savings": "Save Up To $2.90",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Chia Seeds",
-    "savings": "Save Up To $3.78 On 2",
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Welch's Concord Grape Jelly",
-    "savings": "Save Up To $1.50 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Granola",
-    "savings": "Save Up To $2.98 On 2",
-    "offer": "2 for $11.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Celsius Energy Drink",
-    "savings": "Save Up To $2.79 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Maxwell House Ground Coffee",
-    "savings": "Save Up To $7.00",
-    "offer": "$12.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "12-Pack Coca-Cola Products",
-    "savings": "Save Up To $9.99 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Coca-Cola Products",
-    "savings": "Save Up To $2.49 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Martin's Potato Sandwich Bread",
-    "savings": "Save Up To $4.18 On 2",
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "8-Pack Pepsi Products",
-    "savings": "Save Up To $18.98 On 4",
-    "offer": "Buy 2 Get 2 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "6-Pack Pepsi Products",
-    "savings": "Save Up To $18.98 On 4",
-    "offer": "Buy 2 Get 2 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Nabisco Honey Maid Grahams Crackers",
-    "savings": "Save Up To $2.54 On 2",
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Nabisco Newtons Fruit Soft & Chewy Cookies",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "10-Pack Pepsi Products",
-    "savings": "Save Up To $9.49 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Chef Boyardee Pasta",
-    "savings": "Save Up To $5.90 On 10",
-    "offer": "10 for $10.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Wise Potato Chips",
-    "savings": "Save Up To $4.37 On 3",
-    "offer": "3 for $10.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Caf\u00e9 Bustelo Instant Espresso Coffee",
-    "savings": "Save Up To $1.50",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Folgers Instant Coffee Crystals",
-    "savings": "Save Up To $2.10",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Samyang Buldak Ramen",
-    "savings": "Save Up To $1.30",
-    "offer": "$7.59"
-  },
-  {
-    "category": "Grocery",
-    "title": "Chef Boyardee Microwave Pasta",
-    "savings": "Save Up To $4.90 On 10",
-    "offer": "10 for $10.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Espresso Coffee",
-    "savings": "Save Up To $1.00",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "8-Pack Coca-Cola Soft Drink Products",
-    "savings": null,
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Hellmann's Mayonnaise, Vegan Dressing & Spread or Garlic Aioli",
-    "savings": "Your Choice",
-    "offer": "2 for $7.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Icelandic Glacial Water",
-    "savings": null,
-    "offer": "2 for $4.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "La Famiglia DelGrosso Pasta Sauce",
-    "savings": "Your Choice",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Any 2 Manwich Sloppy Joe Sauces",
-    "savings": null,
-    "offer": "$1.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Grocery",
-    "title": "Nabisco Party Size Cookies or Crackers",
-    "savings": null,
-    "offer": "2 for $11.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "On The Border Mexican Grill & Cantina Salsa or Queso",
-    "savings": null,
-    "offer": "2/$6.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Xochitl Tortilla Chips",
-    "savings": "Your Choice",
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Peter Pan Peanut Butter",
-    "savings": "Your Choice",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Primal Kitchen Dressing & Marinade",
-    "savings": "Your Choice",
-    "offer": "$5.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Primal Kitchen Mayonnaise",
-    "savings": "Your Choice",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Sparkling Water",
-    "savings": null,
-    "offer": "$5.19"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Preserves",
-    "savings": null,
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Coconut Aminos",
-    "savings": null,
-    "offer": "$4.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "GreenWise Organic Ground Coffee",
-    "savings": null,
-    "offer": "$9.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Publix Tortilla Chips",
-    "savings": null,
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Red Bull Energy Drink",
-    "savings": null,
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Grocery",
-    "title": "Royal Basmati Rice",
-    "savings": null,
-    "offer": "$8.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Skinnygirl Dressing made with Avocado Oil",
-    "savings": "Your Choice",
-    "offer": "$3.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Starkist Chunk Light Tuna",
-    "savings": null,
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Tate's Bake Shop Cookies",
-    "savings": null,
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Grocery",
-    "title": "Utz Snack Packs",
-    "savings": "Save Up To $3.00",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Grocery",
-    "title": "Utz Potato Chips",
-    "savings": "Save Up To $4.79 On 3",
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Barebells Protein Bar",
-    "savings": "Save Up To $1.00 On 2",
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Tylenol Cold + Flu Medicine",
-    "savings": "Save $4.00",
-    "offer": "$4.00 Off"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Advil, Advil PM or Advil Targeted Relief",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Advil Respiratory",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Aleve Pain Reliever",
-    "savings": null,
-    "offer": "$2.00 Off"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "C4 Sport Pre-Workout Powder",
-    "savings": null,
-    "offer": "$5.00 Off"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Caltrate",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Centrum",
-    "savings": null,
-    "offer": "$4.50 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "$5 off When You Spend $25 on: Claritin, AstePro, Miralax, One A Day, Flintstones, Citracal",
-    "savings": null,
-    "offer": "$5.00 off $25.00 WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Emergen-C",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Excedrin",
-    "savings": null,
-    "offer": "$3.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Publix Cold & Flu Medicine",
-    "savings": null,
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Robitussin",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Theraflu",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Vicks DayQuil & NyQuil Severe Combo 2-pk. 12-oz bottles or LiquiCaps 48-ct.",
-    "savings": "Your Choice",
-    "offer": "$23.39"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Vicks ZzzQuil Chamomile Honey, Calming Vanilla Cherry or Warming Berry 12-oz or LiquiCaps 24-ct.",
-    "savings": "Your Choice",
-    "offer": "$10.49"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Voltaren Arthritis Pain Topical Gel",
-    "savings": null,
-    "offer": "$5.00 Off"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Any 1 Voltaren",
-    "savings": null,
-    "offer": "$4.50 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Paper Coupon",
-    "savings": null,
-    "offer": null
-  },
-  {
-    "category": "Health & Nutrition",
-    "title": "Paper Coupon",
-    "savings": null,
-    "offer": null
-  },
-  {
-    "category": "Baby",
-    "title": "Huggies Diapers",
-    "savings": "Surprisingly Low Price",
-    "offer": "$10.00 Off With Every $40 Purchase of"
-  },
-  {
-    "category": "Baby",
-    "title": "GreenWise Organic Baby Food",
-    "savings": "Save Up To $0.50 On 3",
-    "offer": "3 for $4.00"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Suave Hair Care Products",
-    "savings": "Surprisingly Low Price",
-    "offer": "15% Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Crest Mouthwash or Rinse",
-    "savings": "Save Up To $3.98 On 2",
-    "offer": "2 for $12.00"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Cerave Skin Care Products",
-    "savings": "Surprisingly Low Price",
-    "offer": "20% Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Crest 3D White Toothpaste",
-    "savings": "Save Up To $1.98 On 2",
-    "offer": "2 for $10.00"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Any 1 Always Pads 13\u201350-ct. or Liners 48\u2013120-ct.",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Always Discreet Underwear",
-    "savings": "Your Choice",
-    "offer": "$13.99"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Any 1 Always Discreet Pads 28\u201366-ct. or Underwear 10\u201332-ct.",
-    "savings": null,
-    "offer": "$3.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Aussie Shampoo or Conditioner",
-    "savings": "Your Choice",
-    "offer": "$4.99"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Crest 3D White Mouthwash",
-    "savings": "Your Choice",
-    "offer": "$7.99"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Crest 3D White Toothpaste 2.4-oz, Plus 4.6 or 5.4-oz or 2-pk 5.7-oz OR Pro-Health",
-    "savings": "Your Choice",
-    "offer": "2 for $8.00"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Free with every $15 purchase of Crest Toothpaste, Mouthwash, or Rinse",
-    "savings": null,
-    "offer": "Free $5 Gift Card"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Crest 3DWhitestrips Dental Whitening Kit",
-    "savings": null,
-    "offer": "$5.00 Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Olay Micro-Sculpting or Fragrance-Free Micro-Sculpting Cream",
-    "savings": "Your Choice",
-    "offer": "$4.00 off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Any 2: Secret, Old Spice or Gillette Deodorants 1.6\u20137.6-oz, Olay or Old Spice Body Wash or Lotion",
-    "savings": null,
-    "offer": "$4.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Old Spice Body Wash",
-    "savings": "Your Choice",
-    "offer": "$1.50 off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Oral-B Toothbrush, or Floss, or Floss Picks",
-    "savings": null,
-    "offer": "Buy 2 Get $2.00 Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Ivory Body Wash 35-oz or Bar Soap 10-ct.",
-    "savings": "Your Choice",
-    "offer": "$6.99"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Everpro Gray Away Products",
-    "savings": null,
-    "offer": "$8.99"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Panoxyl Acne Foaming Wash",
-    "savings": null,
-    "offer": "25% Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Schick Hydro 5 Razor Blade Refill Cartridges",
-    "savings": null,
-    "offer": "$3.00 Off"
-  },
-  {
-    "category": "Beauty & Personal Care",
-    "title": "Tampax Pearl Tampons 47\u201350-ct. or Always Ultra Overnight Pads 50-ct.",
-    "savings": "Your Choice",
-    "offer": "$11.49"
-  },
-  {
-    "category": "Housewares",
-    "title": "Brita Replacement Filter",
-    "savings": "Surprisingly Low Price",
-    "offer": "25% Off"
-  },
-  {
-    "category": "Housewares",
-    "title": "Air Wick Scented Oil Refill",
-    "savings": null,
-    "offer": "Buy 2 Get 1 FREE"
-  },
-  {
-    "category": "Housewares",
-    "title": "Any 1 Downy Scent Booster",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Housewares",
-    "title": "Febreze Scent Booster Oil Warmer",
-    "savings": null,
-    "offer": "Sale Price $9.99"
-  },
-  {
-    "category": "Housewares",
-    "title": "Febreze Bathroom",
-    "savings": "Your Choice",
-    "offer": "Sale Price $5.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Tide or Gain Laundry Detergent",
-    "savings": "Save Up To $1.60",
-    "offer": "$19.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Bounty Paper Towels",
-    "savings": null,
-    "offer": "Sales Price $16.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Persil Laundry Detergent",
-    "savings": "Save $4.00",
-    "offer": "$4.00 Off"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Cascade Dishwasher Detergent",
-    "savings": "Save Up To $3.50",
-    "offer": "$12.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Charmin Bathroom Tissue",
-    "savings": null,
-    "offer": "Sales Price $14.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Kleenex Facial Tissue",
-    "savings": "Surprisingly Low Price",
-    "offer": "3 for $5.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Naturalaire Air Filter",
-    "savings": "Save Up To $1.50",
-    "offer": "$5.99 each"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Kleenex Facial Tissues",
-    "savings": "Save Up To $8.98 On 2",
-    "offer": "2 for $11.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Ziploc Sandwich Bags",
-    "savings": "Save Up To $1.78 On 2",
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Sparkle Paper Towels",
-    "savings": "Save Up To $2.90",
-    "offer": "$6.49"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Bounce Fabric Dryer Sheets",
-    "savings": null,
-    "offer": "$6.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Cascade Platinum Plus 22-ct. or larger, Platinum 28-ct. or larger or Complete 38-ct. or larger",
-    "savings": null,
-    "offer": "$3.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Clorox Toilet Cleaning Gel",
-    "savings": null,
-    "offer": "2 for $5.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Clorox Bleach Foamer",
-    "savings": null,
-    "offer": "2 for $9.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Dawn Powersuds 17.4 or 38-oz or Powerwash 16-oz",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Dawn Dish Soap",
-    "savings": null,
-    "offer": "2/$10.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Dixie Plates or Bowls",
-    "savings": "Save Up To $2.22 On 2",
-    "offer": "2 for $6.00"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Downy Sheets",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Downy Rinse",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Fabuloso",
-    "savings": null,
-    "offer": "$1.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Glad Tall Kitchen Bags",
-    "savings": null,
-    "offer": "$8.49"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Mr. Clean Magic Eraser 3\u20134-ct. or Multi-Surface Cleaner 41-oz",
-    "savings": "Your Choice",
-    "offer": "Sale Price $5.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Naturalaire Microparticle Air Filter",
-    "savings": null,
-    "offer": "$9.99 each"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Suavitel",
-    "savings": null,
-    "offer": "$1.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Swiffer Refill Product or 3-ft. Duster Starter Kit",
-    "savings": null,
-    "offer": "$2.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Swiffer PowerMop Starter Kit",
-    "savings": "Your Choice",
-    "offer": "Sale Price $29.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Swiffer Sweep + Mop Deluxe Starter Kit",
-    "savings": null,
-    "offer": "Sale Price $19.99"
-  },
-  {
-    "category": "Non-Foods",
-    "title": "Any 1 Tide Pods 42-ct. or Liquid 73\u201384-oz",
-    "savings": null,
-    "offer": "$3.00 off WITH MFR DIGITAL COUPON"
-  },
-  {
-    "category": "Pet",
-    "title": "Evolve Classic Crafted Meals Dog Food",
-    "savings": null,
-    "offer": "10/$10.00"
-  }
-]
+{
+  "timestamp": "2026-01-04T07:05:48.843092+00:00",
+  "deals": [
+    {
+      "category": "BOGO",
+      "items": [
+        {
+          "title": "Publix Boneless Skinless Chicken Breasts",
+          "savings": "Save Up To $5.55 Lb",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Smithfield Bacon",
+          "savings": "Save Up To $11.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hellmann's Mayonnaise",
+          "savings": "Save Up To $11.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mrs. Butterworth's Syrup",
+          "savings": "Save Up To $4.65",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Caprisun Juice",
+          "savings": "Save Up To $5.95",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Splenda Zero Calorie Sweeteners",
+          "savings": "Save Up To $10.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Kraft Dressing",
+          "savings": "Save Up To $5.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Smucker's Jelly",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Twinings of London Tea Bags",
+          "savings": "Save Up To $10.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Gia Russa Select Pasta Sauce",
+          "savings": "Save Up To $7.55",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nature's Own Bread",
+          "savings": "Save Up To $7.59",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pop-Secret Premium Popcorn",
+          "savings": "Save Up To $6.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mott's Juice",
+          "savings": "Save Up To $5.25",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lay's Potato Chips",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lance Sandwich Crackers",
+          "savings": "Save Up To $5.46",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Unreal Dark Chocolate Bars",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Daisy Cottage Cheese",
+          "savings": "Save Up To $1.67",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Blue Bunny Mini Swirls Frozen Dairy Dessert",
+          "savings": "Save Up To $6.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Halo Top Ice Cream",
+          "savings": "Save Up To $6.39",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Gorton's Shrimp or Crab Cakes",
+          "savings": "Save Up To $9.59",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Talenti Sorbetto",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Whole Fruit Fruit Bars",
+          "savings": "Save Up To $5.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Palermo's Primo Thin Pizza",
+          "savings": "Save Up To $12.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Tide Pods or Gain Flings! Laundry Detergent",
+          "savings": "Save Up To $8.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Earth's Best Organic Baby Food",
+          "savings": "Save Up To $4.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Milk-Bone Dog Snacks",
+          "savings": "Save Up To $5.35",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Meow Mix Cat Food",
+          "savings": "Save Up To $7.75",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "EZ Foil Pans With Lids",
+          "savings": "Save Up To $6.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Del Monte Fruit",
+          "savings": "Save Up To $5.45",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Quaker Instant Oatmeal",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Starbucks Coffee Creamer",
+          "savings": "Save Up To $6.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Meat Mitch BBQ Sauce",
+          "savings": "Save Up To $7.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Bodyarmor Sports Drink",
+          "savings": "Save Up To $2.10",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mission Gluten Free Flour Tortillas",
+          "savings": "Save Up To $6.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Quaker Chewy Granola Bars",
+          "savings": "Save Up To $6.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Sara Lee Bread",
+          "savings": "Save Up To $4.45",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Yoplait Go-Gurt Yogurt",
+          "savings": "Save Up To $7.39",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Jinx Premium Dog Food",
+          "savings": "Save Up To $13.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Dannon Activia Dailies Probiotic Dairy Drink",
+          "savings": "Save Up To $6.59",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Tazo Tea",
+          "savings": "Save Up To $7.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Wilde Protein Chips",
+          "savings": "Save Up To $2.89",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Casa Flores Marcona Almonds",
+          "savings": "Save Up To $8.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Fresh Express Salad Blends",
+          "savings": "Save Up To $5.65",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Stella & Chewy's Meal Topper for Dogs",
+          "savings": "Save Up To $27.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nutpods Dairy-Free Creamer",
+          "savings": "Save Up To $5.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "1st Phorm Level-1 Protein Bar",
+          "savings": "Save Up To $11.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Portland Pet Food Company Homestyle Dog Meal",
+          "savings": "Save Up To $6.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Whisps Cheese Crisps",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Casa Flores Serrano Ham",
+          "savings": "Save Up To $7.55",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Glac\u00e9au Smartwater",
+          "savings": "Save Up To $9.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Magic Spoon Protein Granola",
+          "savings": "Save Up To $10.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mush Overnight Oats",
+          "savings": "Save Up To $2.33",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Seeds of Change Quinoa & Rice",
+          "savings": "Save Up To $3.39",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Crunchmaster Multiseed Crackers",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lean Body Protein Shake",
+          "savings": "Save Up To $3.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Planters Peanuts",
+          "savings": "Save Up To $4.65",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pure Life Purified Water",
+          "savings": "Save Up To $6.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Thomas' English Muffins",
+          "savings": "Save Up To $5.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Belvita Breakfast Biscuits",
+          "savings": "Save Up To $5.55",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Biolyte Electrolyte Supplement",
+          "savings": "Save Up To $3.60",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Wasa Crisp Creations Crackers",
+          "savings": "Save Up To $4.85",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Post Great Grains Cereal",
+          "savings": "Save Up To $8.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Stella & Chewy's Meal Mixers for Dogs",
+          "savings": "Save Up To $9.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Cocojune Coconut Yogurt Alternative",
+          "savings": "Save Up To $2.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "General Mills Cheerios Cereal",
+          "savings": "Save Up To $9.89",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "V8 100% Juice",
+          "savings": "Save Up To $4.31",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pero Family Farms Mini Sweet Peppers",
+          "savings": "Save Up To $4.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Shamrock Farms Rockin' Protein Builder",
+          "savings": "Save Up To $3.60",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Glac\u00e9au Vitaminwater",
+          "savings": "Save Up To $8.34",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Tasty Nate's Beef Tallow Fried Chips",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nature Valley Granola Bars",
+          "savings": "Save Up To $6.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Suja Organic Juice Drink",
+          "savings": "Save Up To $4.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Bonafide Provisions Broth",
+          "savings": "Save Up To $5.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Entenmann's Little Bites Snacks",
+          "savings": "Save Up To $5.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Oatly! Oatmilk",
+          "savings": "Save Up To $5.89",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hatfield Ham Steak",
+          "savings": "Save Up To $3.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Eight O'Clock Ground Coffee",
+          "savings": "Save Up To $11.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Perfect Bar Refrigerated Protein Bar",
+          "savings": "Save Up To $10.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Publix Seasoned Boneless Chicken Breast",
+          "savings": "Save Up To $5.89 Lb",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "GreenWise Organic White Mushrooms",
+          "savings": "Save Up To $3.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Phalaenopsis Orchids",
+          "savings": "Save Up To $19.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nutty & Fruity Mango",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Strawberries",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Rockit Apples",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Alouette Spreadable Cheese",
+          "savings": "Save Up To $6.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Muffins",
+          "savings": "Save Up To $5.59",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Zephyrhills Spring Water",
+          "savings": "Save Up To $3.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mission Flour Tortillas",
+          "savings": "Save Up To $5.85",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lunchables",
+          "savings": "Save Up To $3.33",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Calbee Harvest Snaps",
+          "savings": "Save Up To $2.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Progresso Soup",
+          "savings": "Save Up To $3.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Sol-Ti Supershot",
+          "savings": "Save Up To $3.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Harmless Harvest Organic Coconut Water",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Badia Garlic Powder",
+          "savings": "Save Up To $5.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Koia Protein Plant-Based Shake",
+          "savings": "Save Up To $4.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hoffman German Brand Franks",
+          "savings": "Save Up To $6.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Doctor D's Organic Sparkling Probiotic Drink",
+          "savings": "Save Up To $2.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hero Classic Bagels",
+          "savings": "Save Up To $11.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "8-Pack 7UP Products",
+          "savings": "Save Up To $8.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pr\u00e9sident Feta Cheese",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Kalahari Biltong",
+          "savings": "Save Up To $8.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lightlife Smart Plant-Based Protein Links",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "6-Pack 7UP Products",
+          "savings": "Save Up To $8.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Yucatan Guacamole",
+          "savings": "Save Up To $6.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Tampico Punch",
+          "savings": "Save Up To $3.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Core Hydration Nutrient Enhanced Water",
+          "savings": "Save Up To $12.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Bfree Wraps",
+          "savings": "Save Up To $6.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mifroma Le Gruy\u00e8re AOP Cheese",
+          "savings": "Save Up To $10.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Beyond Meat Vegan Burger",
+          "savings": "Save Up To $17.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Amylu Breakfast Bites Chicken Sausage",
+          "savings": "Save Up To $5.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Big Mountain Foods Mushroom Burger",
+          "savings": "Save Up To $7.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Progresso Pitmaster Soup",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Kingsford Instant Charcoal Briquets",
+          "savings": "Save Up To $11.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Oscar Mayer P3 Packs",
+          "savings": "Save Up To $2.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Ammerlander Cheese",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Balandra Cuban Crackers",
+          "savings": "Save Up To $2.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Old El Paso Soup",
+          "savings": "Save Up To $4.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Zoup! Soup",
+          "savings": "Save Up To $5.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Cracking Good Cheese Co. Cheddar Cheese",
+          "savings": "Save Up To $7.39",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Ancient Nutrition Multi Collagen Protein",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Atkins Entr\u00e9e",
+          "savings": "Save Up To $6.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Betty Crocker Fruit Snacks",
+          "savings": "Save Up To $3.83",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Botticelli Premium Pasta Sauce",
+          "savings": "Save Up To $8.25",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Chex Mix Snack",
+          "savings": "Save Up To $4.02",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Core Hydration Nutrient Enhanced Water With Electrolytes and Minerals",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Crystal Light Drink Mix",
+          "savings": "Save Up To $4.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Dash Salt-Free Seasonings",
+          "savings": "Save Up To $4.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Eternal Spring Water",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Evol. Entr\u00e9e",
+          "savings": "Save Up To $6.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Fresh Cravings Hummus",
+          "savings": "Save Up To $4.75",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Green Giant Vegetables",
+          "savings": "Save Up To $2.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Green Giant Vegetables",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Happy Egg Co. Brown Eggs",
+          "savings": "Save Up To $6.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hawk Crest Pinot Gris Wine",
+          "savings": "Save Up To $17.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "6-Pack Heineken 0.0 Beer",
+          "savings": "Save Up To $13.39",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Hungry Jack Complete Pancake & Waffle Mix",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Jif Peanut Butter",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Jimmy Dean Delights Sandwiches",
+          "savings": "Save Up To $8.75",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Jolly Time Popcorn",
+          "savings": "Save Up To $6.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Just Bare Oven Roasted Chicken Breast Bites",
+          "savings": "Save Up To $15.43",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Kashi Cereal",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Lavazza Ground or Whole Bean",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Luigi's Real Italian Ice",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Donut Shop K-Cup Coffee",
+          "savings": "Save Up To $12.69",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Milton's Baked Crackers",
+          "savings": "Save Up To $4.35",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mott's Applesauce",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mrs. Cubbison's Croutons or Salad Crisps",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Muir Glen Organic Tomatoes",
+          "savings": "Save Up To $5.25",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nathan's Famous Bagel Dogs",
+          "savings": "Save Up To $9.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Nature's Truth Supplements",
+          "savings": "Save Up To $45.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "The Original Bomb Pop or Skinny Cow Ice Cream Cones or Sandwich Snacker",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Carbe Diem! Pasta",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Trolli Gummi Pop",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Local Hive Raw & Unfiltered Honey",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Sicilian Village Marinated Olives",
+          "savings": "Save Up To $6.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Churu Cat Treat Tube, Tuna & Chicken Recipe, Unique Creamy Treat!",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Easy-Off Oven Cleaner",
+          "savings": "Save Up To $6.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Educated Guess Pinot Noir Wine",
+          "savings": "Save Up To $26.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Fitvine California Cabernet Sauvignon Wine",
+          "savings": "Save Up To $17.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "PB Fit Peanut Butter Powder",
+          "savings": "Save Up To $10.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Outshine Fruit Bars",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Oxiclean Stain Remover",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pepperidge Farm Goldfish Baked Snack Crackers or Cookies",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pillsbury Grands! Biscuits",
+          "savings": "Save Up To $3.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Polaner Preserves, Jam or Marmalade",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Pompeian Imported Olive Oil",
+          "savings": "Save Up To $25.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Poppi Prebiotic Soda",
+          "savings": "Save Up To $2.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Premier Protein Ready to Drink Protein Shake",
+          "savings": "Save Up To $3.29",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Purely Elizabeth. Granola",
+          "savings": "Save Up To $7.45",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Right Guard Anti-Perspirant Deodorant",
+          "savings": "Save Up To $5.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Russell Stover Sugar Free Chocolates",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Sensible Portions Snacks",
+          "savings": "Save Up To $4.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Snapple Tea",
+          "savings": "Save Up To $9.09",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "SuperPretzel Soft Pretzels",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Sweet 'n Low Sweetener",
+          "savings": null,
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Truly Grass-Fed Natural Creamy Butter",
+          "savings": "Save Up To $10.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Tyson Chicken Nuggets",
+          "savings": "Save Up To $9.05",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Van's Waffles",
+          "savings": "Save Up To $12.49",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Vanity Fair Napkins",
+          "savings": "Save Up To $4.15",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Vigo Saffron Yellow Rice",
+          "savings": "Save Up To $1.59",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Wish-Bone Dressing",
+          "savings": "Save Up To $3.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Mambo Pandebono",
+          "savings": "Save Up To $5.99",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Juanita's Cooking Sauce",
+          "savings": "Save Up To $7.79",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Kiosco Tres Leches",
+          "savings": "Save Up To $7.19",
+          "offer": "Buy 1 Get 1 Free"
+        },
+        {
+          "title": "Toufayan Keto Pita Bread",
+          "savings": "Save Up To $5.39",
+          "offer": "Buy 1 Get 1 Free"
+        }
+      ]
+    },
+    {
+      "category": "New",
+      "items": [
+        {
+          "title": "Chocolate and Almond Bretzel Pastry",
+          "savings": "Save Up To $1.00, New",
+          "offer": "$3.99"
+        }
+      ]
+    },
+    {
+      "category": "Bakery",
+      "items": [
+        {
+          "title": "Assorted Macarons",
+          "savings": "Save Up To $1.00",
+          "offer": "$8.99"
+        },
+        {
+          "title": "Cake Donuts",
+          "savings": "Save Up To $0.60",
+          "offer": "$3.29"
+        },
+        {
+          "title": "Cinnamon Swirl Creme Cake",
+          "savings": "Save Up To $0.60",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Sourdough Round Bread",
+          "savings": "Surprisingly Low Price",
+          "offer": "$4.79"
+        },
+        {
+          "title": "French Hamburger Buns",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.19"
+        },
+        {
+          "title": "GreenWise Bagels",
+          "savings": null,
+          "offer": "$2.00"
+        },
+        {
+          "title": "Decadent Cake Slices",
+          "savings": "Save Up To $0.60",
+          "offer": "$4.99"
+        }
+      ]
+    },
+    {
+      "category": "Deli",
+      "items": [
+        {
+          "title": "Publix Cooked Sweet Ham",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Boar's Head\u00ae Bold Pitcraft Smoked Turkey Salad",
+          "savings": "Save Up To $2.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Wild Caught Salmon Salad",
+          "savings": "Save Up To $3.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Fresh Mozzarella Cheese",
+          "savings": "Save Up To $1.00",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Publix Southern Cobb Salad",
+          "savings": "Save Up To $1.50",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Chicken Caesar Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Traditional Greek-Style Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Boar's Head\u00ae Lower Sodium Turkey Breast",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$14.99 lb"
+        },
+        {
+          "title": "Publix Whole Turkey Sub",
+          "savings": "Save Up To $2.00",
+          "offer": "$7.99 each"
+        },
+        {
+          "title": "Publix Fried Popcorn Chicken",
+          "savings": "Save Up To $0.50",
+          "offer": "$5.49"
+        },
+        {
+          "title": "Publix Volcano Roll Dip",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.69"
+        },
+        {
+          "title": "Publix Flatbread Pizza",
+          "savings": "Save Up To $1.50",
+          "offer": "$7.49"
+        },
+        {
+          "title": "Publix Smoked Pulled Pork Meal",
+          "savings": "Save Up To $0.50",
+          "offer": "$8.99 each"
+        },
+        {
+          "title": "Publix Louisiana-Style Shrimp Fettuccine Meal",
+          "savings": "Save Up To $1.00",
+          "offer": "$7.99"
+        },
+        {
+          "title": "Publix Chicken Breast Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.49"
+        },
+        {
+          "title": "Publix Chef Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Strawberry & Glazed Pecan Salad",
+          "savings": "Save Up To $2.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Boar's Head Bold Chef Salad",
+          "savings": "Save Up To $2.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Belgioioso Fresh Mozzarella Cheese",
+          "savings": "Save Up To $3.38 On 2",
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "Publix Turkey Cobb Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Quiche Lorraine",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Publix Diced Pancetta",
+          "savings": "Save Up To $2.00",
+          "offer": "$3.49"
+        },
+        {
+          "title": "Stacy's Sharing Size Pita Chips",
+          "savings": "Save Up To $4.98 On 2",
+          "offer": "2 for $11.00"
+        },
+        {
+          "title": "Publix Southwest Chicken Tender Fajita Salad",
+          "savings": "Save Up To $1.50",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Ithaca Hummus",
+          "savings": "Save Up To $2.50",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Publix Cooked Ham",
+          "savings": "Save Up To $2.00",
+          "offer": "$5.49"
+        },
+        {
+          "title": "Publix Colby Jack Cheese",
+          "savings": "Save Up To $1.60 Lb",
+          "offer": "$5.99 lb"
+        },
+        {
+          "title": "Gayo Azul Gouda Cheese",
+          "savings": "Save Up To $2.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Belgioioso Sharp Provolone Cheese",
+          "savings": "Save Up To $2.50",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Boar's Head Yellow or White American Cheese",
+          "savings": "Save Up To $2.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Boar's Head Creamy Blue Cheese Crumbles",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.79"
+        },
+        {
+          "title": "Greek Isle Barrel Aged Feta Cheese",
+          "savings": "Save Up To $1.50",
+          "offer": "$4.49"
+        },
+        {
+          "title": "Boar's Head Breakfast Pork Sausage Patties",
+          "savings": "Save Up To $2.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Boar's Head Cream Havarti Cheese",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$12.99 lb"
+        },
+        {
+          "title": "Boar's Head Goat Cheese",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.39"
+        },
+        {
+          "title": "Yancey's Fancy Cheese",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Jarlsberg Cheese",
+          "savings": "Save Up To $2.30",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Sartori Montamor\u00e9 Cheese Bites",
+          "savings": "Save Up To $5.38 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Boar's Head Creamy Blue Cheese",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.79"
+        },
+        {
+          "title": "Fiscalini Purple Moon Cheddar Cheese",
+          "savings": "Save Up To $1.00",
+          "offer": "$7.99"
+        },
+        {
+          "title": "Effie's Homemade Nutcake",
+          "savings": "Save Up To $1.00",
+          "offer": "$7.49"
+        },
+        {
+          "title": "Firehook Crackers",
+          "savings": null,
+          "offer": "$5.99"
+        },
+        {
+          "title": "Snack Factory Pretzel Crisps",
+          "savings": "Your Choice",
+          "offer": "$3.99"
+        }
+      ]
+    },
+    {
+      "category": "Floral",
+      "items": [
+        {
+          "title": "Shades of Passion Bouquet",
+          "savings": "Save Up To $1.00",
+          "offer": "$21.99 Each"
+        },
+        {
+          "title": "Tulip Bouquet",
+          "savings": null,
+          "offer": "$7.99 each"
+        }
+      ]
+    },
+    {
+      "category": "Meat",
+      "items": [
+        {
+          "title": "GreenWise Organic Chicken Drumsticks",
+          "savings": "Save Up To $1.30 Lb",
+          "offer": "$2.99 lb"
+        },
+        {
+          "title": "GreenWise Organic Chicken Tenders",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "GreenWise Organic Chicken Breast Fillets",
+          "savings": "Save Up To $3.00 Lb",
+          "offer": "$6.99 lb"
+        },
+        {
+          "title": "Publix Assorted Pork Loin Chops",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$3.99 lb"
+        },
+        {
+          "title": "Bottom Round Roast",
+          "savings": "Save Up To $2.50 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Publix Pork Italian Sausage",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.69"
+        },
+        {
+          "title": "Publix Stuffed Jalape\u00f1o Peppers",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$9.99 lb"
+        },
+        {
+          "title": "Kevin's Natural Foods Chicken Entr\u00e9es",
+          "savings": "Save Up To $2.20",
+          "offer": "$8.99"
+        },
+        {
+          "title": "GreenWise Angus Ribeye Steak",
+          "savings": "Save Up To $6.00 Lb",
+          "offer": "$17.99 lb"
+        },
+        {
+          "title": "Boneless Top Sirloin Steak",
+          "savings": "Save Up To $3.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Flank Steak",
+          "savings": "Save Up To $3.00 Lb",
+          "offer": "$11.99 lb"
+        },
+        {
+          "title": "Publix Gourmet Meatballs",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Lean Ground Beef",
+          "savings": "Save Up To $1.84 Lb",
+          "offer": "$8.49 lb"
+        },
+        {
+          "title": "GreenWise Ground Chuck",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Publix Mild or Hot Italian Pork Sausage",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.69"
+        },
+        {
+          "title": "Publix Pork Loin Rib Chops",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$4.99 lb"
+        },
+        {
+          "title": "GreenWise Ground Chicken",
+          "savings": "Save Up To $2.70",
+          "offer": "$3.49"
+        },
+        {
+          "title": "Publix Pork Loin Chops",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$4.99 lb"
+        },
+        {
+          "title": "GreenWise Organic Boneless Chicken Thighs",
+          "savings": "Save Up To $2.40 Lb",
+          "offer": "$6.49 lb"
+        },
+        {
+          "title": "Maverick Ranch Organic Ground Beef",
+          "savings": "Save Up To $1.00",
+          "offer": "$10.49"
+        },
+        {
+          "title": "GreenWise Uncured Bacon",
+          "savings": "Save Up To $1.10",
+          "offer": "$4.39"
+        },
+        {
+          "title": "Top Sirloin for Kabobs",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$9.99 lb"
+        },
+        {
+          "title": "GreenWise Angus Top Sirloin Fillet",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$12.99 lb"
+        },
+        {
+          "title": "Bottom Round Steaks",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Wahlburgers Sliders",
+          "savings": "Save Up To $1.00",
+          "offer": "$12.49"
+        },
+        {
+          "title": "Shoulder London Broil",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Outside Skirt Steak",
+          "savings": "Save Up To $3.00 Lb",
+          "offer": "$20.99 lb"
+        },
+        {
+          "title": "Publix Seasoned Beef Meatloaf",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Top Sirloin Fillet",
+          "savings": "Save Up To $1.50 Lb",
+          "offer": "$10.49 lb"
+        },
+        {
+          "title": "GreenWise Lunch Meats",
+          "savings": "Save Up To $2.38 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Boneless Shoulder Steaks",
+          "savings": "Save Up To $3.50 Lb",
+          "offer": "$9.99 lb"
+        },
+        {
+          "title": "GreenWise Angus Top Sirloin Steak",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$11.99 lb"
+        },
+        {
+          "title": "Florida Raised Grass-Fed Ground Beef",
+          "savings": "Save Up To $2.00",
+          "offer": "$9.99"
+        },
+        {
+          "title": "GreenWise Ground Chuck Burgers",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$9.49 lb"
+        },
+        {
+          "title": "Publix Spiral-Sliced Ham",
+          "savings": "Save Up To $2.20 Lb",
+          "offer": "$2.49 lb"
+        },
+        {
+          "title": "Sahlen's Hot Dogs",
+          "savings": "Save Up To $6.10 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Top Sirloin Steaks",
+          "savings": "Save Up To $3.00 Lb",
+          "offer": "$9.49 lb"
+        },
+        {
+          "title": "Rump Roast",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$8.29 lb"
+        },
+        {
+          "title": "GreenWise Angus Top Sirloin Cap Steak",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$12.99 lb"
+        },
+        {
+          "title": "GreenWise Angus Beef Back Ribs",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$5.99 lb"
+        },
+        {
+          "title": "Perdue Air Fryer Wings",
+          "savings": "Save Up To $4.00",
+          "offer": "$9.39"
+        },
+        {
+          "title": "Publix Pork Sausage",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.69"
+        },
+        {
+          "title": "Publix Beef Meatloaf Stuffed Peppers",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Publix Semi-Boneless Ham Half",
+          "savings": "Save Up To $2.40 Lb",
+          "offer": "$1.59 lb"
+        },
+        {
+          "title": "Publix Pork Loin Center Rib Roast",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$4.49 lb"
+        },
+        {
+          "title": "GreenWise Angus Standing Rib Roast",
+          "savings": "Save Up To $6.00 Lb",
+          "offer": "$17.49 lb"
+        },
+        {
+          "title": "Publix Beef Brisket & Pork Belly Burger",
+          "savings": "Save Up To $3.00",
+          "offer": "$9.99"
+        },
+        {
+          "title": "Publix 93% Lean Beef Burgers",
+          "savings": "Save Up To $1.84 Lb",
+          "offer": "$9.49 lb"
+        },
+        {
+          "title": "GreenWise Lean Pork Loin Roast",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$5.99 lb"
+        },
+        {
+          "title": "Whole Shoulder",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Ball Park Angus Beef Franks",
+          "savings": null,
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "Hillshire Farm Lunch Meats",
+          "savings": null,
+          "offer": "$6.99"
+        },
+        {
+          "title": "Johnsonville Sausage Links",
+          "savings": null,
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "Kevin's Natural Foods Side Dishes",
+          "savings": null,
+          "offer": "2/$9.00"
+        },
+        {
+          "title": "Schweid & Sons The Butcher's Blend Ground Beef",
+          "savings": null,
+          "offer": "$7.29"
+        },
+        {
+          "title": "GreenWise Angus Ribeye Steak Boneless",
+          "savings": null,
+          "offer": "$20.99 lb"
+        },
+        {
+          "title": "GreenWise Lean Pork Loin Chops",
+          "savings": null,
+          "offer": "$6.49 lb"
+        },
+        {
+          "title": "GreenWise Lean Pork Loin Chops - Thinly-Sliced",
+          "savings": null,
+          "offer": "$6.99 lb"
+        },
+        {
+          "title": "Publix Potato Skins With Cream Cheese",
+          "savings": null,
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "GreenWise Angus Flank Steak, USDA Choice Beef",
+          "savings": null,
+          "offer": "$13.99 lb"
+        },
+        {
+          "title": "Publix Seasoned Beef Meatballs",
+          "savings": null,
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Shoulder Roast Boneless",
+          "savings": null,
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Publix Ground Pork",
+          "savings": null,
+          "offer": "$3.49 lb"
+        },
+        {
+          "title": "GreenWise 93% Lean Ground Turkey",
+          "savings": null,
+          "offer": "$4.99"
+        },
+        {
+          "title": "GreenWise Lamb Loin Chops",
+          "savings": null,
+          "offer": "$10.99 lb"
+        },
+        {
+          "title": "GreenWise Ground Turkey Breast",
+          "savings": null,
+          "offer": "$7.99"
+        },
+        {
+          "title": "Lean Ground Beef Burgers",
+          "savings": null,
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Publix Chicken Drumsticks",
+          "savings": null,
+          "offer": "$1.99 lb"
+        },
+        {
+          "title": "Steakhouse Elite Ground Beef Burger With Brisket",
+          "savings": null,
+          "offer": "$10.09"
+        }
+      ]
+    },
+    {
+      "category": "Produce",
+      "items": [
+        {
+          "title": "GreenWise Organic Baby Carrots",
+          "savings": "Save Up To $0.98 On 2",
+          "offer": "2 for $4.00"
+        },
+        {
+          "title": "Hot House Cucumbers",
+          "savings": "Save Up To $1.00 On 2",
+          "offer": "2 for $5.00 Each"
+        },
+        {
+          "title": "GreenWise Organic Salads",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $7.00"
+        },
+        {
+          "title": "Sunset Flavor Bombs Organic Tomatoes",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Broccoli or Cauliflower",
+          "savings": "Save Up To $1.00",
+          "offer": "$2.99 each"
+        },
+        {
+          "title": "Publix Romaine Hearts",
+          "savings": "Save Up To $1.50",
+          "offer": "$3.49"
+        },
+        {
+          "title": "Hass Avocados",
+          "savings": "Save Up To $0.32 On 4",
+          "offer": "4 for $5.00 Each"
+        },
+        {
+          "title": "Pero Family Farms Green Beans",
+          "savings": "Save Up To $1.50",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Publix Red Potatoes",
+          "savings": "Save Up To $2.00",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Grape Tomatoes",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $4.00"
+        },
+        {
+          "title": "White or Red Seedless Grapes",
+          "savings": "Save Up To $0.50 Lb",
+          "offer": "$3.49 lb"
+        },
+        {
+          "title": "Mangos",
+          "savings": "Save Up To $2.50 On 3",
+          "offer": "3 for $5.00 each"
+        },
+        {
+          "title": "Navel Oranges",
+          "savings": "Save Up To $0.80 Lb",
+          "offer": "$1.69 lb"
+        },
+        {
+          "title": "Blackberries or Red Raspberries",
+          "savings": "Save Up To $4.97 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "GreenWise Organic Mandarins",
+          "savings": "Save Up To $2.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Tropicana Pure Premium Orange Juice",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "Publix Fruit Salad",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$3.99 lb"
+        },
+        {
+          "title": "Fresh Attitude Salads",
+          "savings": "Save Up To $1.97 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "Taylor Farms Chopped Salads",
+          "savings": "Save Up To $2.98 On 2",
+          "offer": "2 for $7.00"
+        },
+        {
+          "title": "Publix Kiwi Pineapple Fruit Salad Mix",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$5.99 lb"
+        },
+        {
+          "title": "Red Dragon Fruit",
+          "savings": "Save Up To $3.98 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Red Navel Oranges",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Kale Greens",
+          "savings": "Save Up To $1.00 On 3",
+          "offer": "3 for $5.00"
+        },
+        {
+          "title": "Natalie's Orchid Island Juice",
+          "savings": "Save Up To $1.77 On 3",
+          "offer": "3 for $6.00"
+        },
+        {
+          "title": "Broccoli Florets",
+          "savings": "Save Up To $2.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Organic Round Tomatoes",
+          "savings": "Save Up To $1.00",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Spice World Minced Garlic",
+          "savings": "Save Up To $1.10",
+          "offer": "$1.89"
+        },
+        {
+          "title": "So Good So You Organic Juice Shot",
+          "savings": "Save Up To $3.16 On 4",
+          "offer": "4 for $10.00"
+        },
+        {
+          "title": "Snapdragon Apples",
+          "savings": "Save Up To $1.00",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Pero Family Farms Bell Peppers and Onions",
+          "savings": "Save Up To $1.00",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Pero Family Farms Broccoletti",
+          "savings": "Save Up To $1.97 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "GreenWise Organic Oranges",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Florida Oranges",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Naked Juice Smoothie",
+          "savings": "Save Up To $3.99 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "221 B.C. Organic Kombucha",
+          "savings": "Save Up To $2.87 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "Tangerines",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Wonderful Pistachios",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.49"
+        },
+        {
+          "title": "Good Foods Avocado Salsa",
+          "savings": "Save Up To $3.98 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Pero Family Farms Vegetables",
+          "savings": "Save Up To $1.97 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "Sambazon Acai Superfruit Organic Juice",
+          "savings": "Save Up To $2.98 On 2",
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "GT's Synergy Raw Kombucha",
+          "savings": "Save Up To $3.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Magic Mind Mental Performance Shot",
+          "savings": "Save Up To $1.97 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "Publix Fruit & Nut Salad",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Arden's Garden Fruit Juice",
+          "savings": "Save Up To $10.98 On 2",
+          "offer": "2 for $25.00"
+        },
+        {
+          "title": "Yo Quiero! Queso Blanco",
+          "savings": "Save Up To $1.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Bolthouse Farms Dressings",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Cosmic Crisp Apples or Pink Lady Apples, Large",
+          "savings": null,
+          "offer": "$1.99 lb"
+        },
+        {
+          "title": "Cherries, Extra Large",
+          "savings": null,
+          "offer": "$4.99 lb"
+        },
+        {
+          "title": "Persian Limes",
+          "savings": null,
+          "offer": "$3.99"
+        },
+        {
+          "title": "Blueberries",
+          "savings": null,
+          "offer": "2/$10.00"
+        },
+        {
+          "title": "Sumo Citrus",
+          "savings": null,
+          "offer": "$3.99 lb"
+        },
+        {
+          "title": "Asparagus",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$3.99 lb"
+        },
+        {
+          "title": "Beefsteak Tomato",
+          "savings": null,
+          "offer": "$1.99 lb"
+        },
+        {
+          "title": "Rapini",
+          "savings": null,
+          "offer": "$3.49 each"
+        },
+        {
+          "title": "Pineberries",
+          "savings": null,
+          "offer": "2/$10.00"
+        },
+        {
+          "title": "GreenWise Hemp Seeds",
+          "savings": "Save Up To $3.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Yellow Onions",
+          "savings": null,
+          "offer": "$3.99"
+        },
+        {
+          "title": "Publix Green Beans",
+          "savings": null,
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "GreenWise Organic Gala Apples or Organic Lady Alice Apples",
+          "savings": null,
+          "offer": "$3.99"
+        },
+        {
+          "title": "Tropicana Refreshers",
+          "savings": null,
+          "offer": "2/$6.00"
+        },
+        {
+          "title": "Sugarbee Apples",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$2.99 lb"
+        }
+      ]
+    },
+    {
+      "category": "Seafood",
+      "items": [
+        {
+          "title": "GreenWise Flounder Fillets",
+          "savings": "Surprisingly Low Price",
+          "offer": "$7.99"
+        },
+        {
+          "title": "GreenWise Sockeye Salmon Fillets",
+          "savings": "Save Up To $5.00",
+          "offer": "$14.99"
+        },
+        {
+          "title": "Salmon Fillets",
+          "savings": "Save Up To $2.00 Lb",
+          "offer": "$11.99 lb"
+        },
+        {
+          "title": "White Shrimp",
+          "savings": "Save Up To $4.00 Lb",
+          "offer": "$6.99 lb"
+        },
+        {
+          "title": "Catfish Fillets",
+          "savings": "Save Up To $1.00 Lb",
+          "offer": "$8.99 lb"
+        },
+        {
+          "title": "Starkist Wild Caught Light Tuna",
+          "savings": "Save Up To $1.36 On 4",
+          "offer": "4 for $5.00"
+        },
+        {
+          "title": "Publix White Shrimp",
+          "savings": "Save Up To $7.50",
+          "offer": "$11.99"
+        },
+        {
+          "title": "Publix Cooked Shrimp",
+          "savings": "Save Up To $9.00",
+          "offer": "$17.99"
+        },
+        {
+          "title": "Ducktrap Spruce Point Smoked Salmon",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "GreenWise White Shrimp",
+          "savings": "Save Up To $4.00",
+          "offer": "$10.99"
+        },
+        {
+          "title": "Smilin' Bob's Smoked Fish Dip",
+          "savings": "Save Up To $1.00",
+          "offer": "$8.99"
+        },
+        {
+          "title": "GreenWise Large White Shrimp",
+          "savings": "Save Up To $7.50",
+          "offer": "$13.49"
+        },
+        {
+          "title": "Cedar Bay Cedar Planked Salmon",
+          "savings": "Save Up To $3.00",
+          "offer": "$9.99"
+        },
+        {
+          "title": "Annasea Ahi Tuna Poke Kit",
+          "savings": "Save Up To $3.00",
+          "offer": "$7.99"
+        },
+        {
+          "title": "GreenWise Cooked Shrimp",
+          "savings": "Save Up To $9.00",
+          "offer": "$19.49"
+        },
+        {
+          "title": "Bacon Cheddar Salmon Burger",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Publix Crab Cakes",
+          "savings": "Save Up To $2.00",
+          "offer": "$8.99"
+        },
+        {
+          "title": "Chicken of the Sea Solid White Albacore Tuna",
+          "savings": "Save Up To $2.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "White Shrimp, Peeled & Deveined",
+          "savings": null,
+          "offer": "$7.99 lb"
+        },
+        {
+          "title": "Mahi Mahi Select Cuts",
+          "savings": null,
+          "offer": "$8.99"
+        },
+        {
+          "title": "Cooked Shrimp",
+          "savings": null,
+          "offer": "$11.99 lb"
+        },
+        {
+          "title": "Publix Hand-Breaded Panko Shrimp",
+          "savings": "Surprisingly Low Price",
+          "offer": "$6.00"
+        },
+        {
+          "title": "Publix Mini Crab Cakes With Sweet Heat Sauce",
+          "savings": null,
+          "offer": "$7.99"
+        },
+        {
+          "title": "Publix Shrimp Scampi",
+          "savings": null,
+          "offer": "$7.99"
+        }
+      ]
+    },
+    {
+      "category": "Beer & Wine",
+      "items": [
+        {
+          "title": "Barefoot Pinot Grigio Wine",
+          "savings": "Surprisingly Low Price",
+          "offer": "$10.99"
+        },
+        {
+          "title": "Barefoot Bubbly Brut Cuv\u00e9e or Pink Moscato Sparkling Wine",
+          "savings": null,
+          "offer": "$9.49"
+        },
+        {
+          "title": "18-Pack Bud Light Beer",
+          "savings": null,
+          "offer": "$17.99"
+        },
+        {
+          "title": "18-Pack Busch Light Beer",
+          "savings": null,
+          "offer": "$14.99"
+        },
+        {
+          "title": "12-Pack Corona Extra Beer or Pacifico Pilsner",
+          "savings": null,
+          "offer": "$16.99"
+        },
+        {
+          "title": "Josh Cellars North Coast Reserve Cabernet Sauvignon Wine",
+          "savings": null,
+          "offer": "$16.99"
+        },
+        {
+          "title": "Josh Cellars Cabernet Sauvignon Wine",
+          "savings": "Surprisingly Low Price",
+          "offer": "$10.99"
+        },
+        {
+          "title": "6-Pack Lagunitas Brewing Co. Beer",
+          "savings": null,
+          "offer": "$11.79"
+        },
+        {
+          "title": "12-Pack Michelob Ultra Beer",
+          "savings": "Save Up To $2.40",
+          "offer": "$14.99"
+        },
+        {
+          "title": "12-Pack Michelob Ultra Zero Beer",
+          "savings": "Save Up To $4.00",
+          "offer": "$14.99"
+        },
+        {
+          "title": "Mionetto Alcohol-Removed Sparkling Wine",
+          "savings": null,
+          "offer": "$11.99"
+        },
+        {
+          "title": "Fre Chardonnay Wine",
+          "savings": "Save Up To $1.50",
+          "offer": "$8.49"
+        },
+        {
+          "title": "Juggernaut Cabernet Sauvignon Wine",
+          "savings": null,
+          "offer": "$16.99"
+        },
+        {
+          "title": "12-Pack Sierra Nevada Brewing Co. Beer",
+          "savings": "Save Up To $2.50",
+          "offer": "$19.49"
+        },
+        {
+          "title": "12-Pack Stella Artois Lager",
+          "savings": "Save Up To $3.00",
+          "offer": "$16.99"
+        },
+        {
+          "title": "12-Pack Twisted Tea Hard Iced Tea",
+          "savings": null,
+          "offer": "$19.49"
+        },
+        {
+          "title": "12-Pack White Claw Hard Seltzer",
+          "savings": null,
+          "offer": "$19.99"
+        }
+      ]
+    },
+    {
+      "category": "Dairy",
+      "items": [
+        {
+          "title": "Bizzy Cold Brew Coffee",
+          "savings": "Save Up To $3.98 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Chomps Beef Sticks",
+          "savings": "Save Up To $4.60",
+          "offer": "$16.99"
+        },
+        {
+          "title": "A2 Milk, 59-oz or Half and Half",
+          "savings": null,
+          "offer": "2/$9.00"
+        },
+        {
+          "title": "Heluva Good! French Onion Dip",
+          "savings": null,
+          "offer": "2 for $4.00"
+        },
+        {
+          "title": "Kraft Shredded Cheese",
+          "savings": null,
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Publix Cheese Slices",
+          "savings": null,
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Publix Mozzarella String Cheese",
+          "savings": null,
+          "offer": "2 for $9.00"
+        }
+      ]
+    },
+    {
+      "category": "Frozen Food",
+      "items": [
+        {
+          "title": "GreenWise Frozen Organic Vegetables",
+          "savings": "Save Up To $0.78 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Marie Callender's Bowl",
+          "savings": "Surprisingly Low Price",
+          "offer": "3 for $9.00"
+        },
+        {
+          "title": "Publix Ice Cream",
+          "savings": "Save Up To $3.18 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "GreenWise Organic Whole Fruit",
+          "savings": "Save Up To $1.78 On 2",
+          "offer": "2 for $7.00"
+        },
+        {
+          "title": "Canyon Bakehouse Bread, Bagels or Rolls",
+          "savings": "Your Choice",
+          "offer": "$6.49"
+        },
+        {
+          "title": "Healthy Choice Bowls, or Marie Callender's or Dolly Parton's Meals",
+          "savings": null,
+          "offer": "2/$7.00"
+        },
+        {
+          "title": "Pilgrim's Frozen Fully Cooked Chicken",
+          "savings": "Your Choice",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix French Toast Sticks",
+          "savings": null,
+          "offer": "2 for $7.00"
+        },
+        {
+          "title": "$5 off When You Spend $20 on Any Rana Items",
+          "savings": null,
+          "offer": "$5.00 off $20.00 WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Stouffer's Family Size Entr\u00e9e",
+          "savings": null,
+          "offer": "$8.99"
+        }
+      ]
+    },
+    {
+      "category": "Grocery",
+      "items": [
+        {
+          "title": "GreenWise Organic Tomato Ketchup",
+          "savings": "Save Up To $0.40",
+          "offer": "$2.59"
+        },
+        {
+          "title": "On The Border Tortilla Chips",
+          "savings": "Save Up To $4.29 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Lacroix Sparkling Water",
+          "savings": "Save Up To $6.79 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "12-Pack Pepsi Products",
+          "savings": "Save Up To $23.98 On 4",
+          "offer": "Buy 2 Get 2 FREE"
+        },
+        {
+          "title": "Publix Spring Water",
+          "savings": "Save Up To $2.47 On 3",
+          "offer": "3 for $11.00"
+        },
+        {
+          "title": "Publix Grated Cheese",
+          "savings": "Save Up To $2.58 On 2",
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "Publix Baking Nuts",
+          "savings": "Save $1.00",
+          "offer": "$1.00 Off"
+        },
+        {
+          "title": "Publix Maple Syrup",
+          "savings": "Save Up To $1.00",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Publix Yum Yum Sauce",
+          "savings": "Save Up To $1.00",
+          "offer": "$3.49"
+        },
+        {
+          "title": "Publix Water Enhancer",
+          "savings": "Save Up To $0.78 On 2",
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "GreenWise Organic Honey",
+          "savings": "Save Up To $2.90",
+          "offer": "$5.99"
+        },
+        {
+          "title": "GreenWise Organic Chia Seeds",
+          "savings": "Save Up To $3.78 On 2",
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "Welch's Concord Grape Jelly",
+          "savings": "Save Up To $1.50 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "GreenWise Granola",
+          "savings": "Save Up To $2.98 On 2",
+          "offer": "2 for $11.00"
+        },
+        {
+          "title": "Celsius Energy Drink",
+          "savings": "Save Up To $2.79 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Maxwell House Ground Coffee",
+          "savings": "Save Up To $7.00",
+          "offer": "$12.99"
+        },
+        {
+          "title": "12-Pack Coca-Cola Products",
+          "savings": "Save Up To $9.99 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Coca-Cola Products",
+          "savings": "Save Up To $2.49 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Martin's Potato Sandwich Bread",
+          "savings": "Save Up To $4.18 On 2",
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "8-Pack Pepsi Products",
+          "savings": "Save Up To $18.98 On 4",
+          "offer": "Buy 2 Get 2 FREE"
+        },
+        {
+          "title": "6-Pack Pepsi Products",
+          "savings": "Save Up To $18.98 On 4",
+          "offer": "Buy 2 Get 2 FREE"
+        },
+        {
+          "title": "Nabisco Honey Maid Grahams Crackers",
+          "savings": "Save Up To $2.54 On 2",
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "Nabisco Newtons Fruit Soft & Chewy Cookies",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "10-Pack Pepsi Products",
+          "savings": "Save Up To $9.49 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Chef Boyardee Pasta",
+          "savings": "Save Up To $5.90 On 10",
+          "offer": "10 for $10.00"
+        },
+        {
+          "title": "Wise Potato Chips",
+          "savings": "Save Up To $4.37 On 3",
+          "offer": "3 for $10.00"
+        },
+        {
+          "title": "Caf\u00e9 Bustelo Instant Espresso Coffee",
+          "savings": "Save Up To $1.50",
+          "offer": "$7.99"
+        },
+        {
+          "title": "Folgers Instant Coffee Crystals",
+          "savings": "Save Up To $2.10",
+          "offer": "$7.99"
+        },
+        {
+          "title": "Samyang Buldak Ramen",
+          "savings": "Save Up To $1.30",
+          "offer": "$7.59"
+        },
+        {
+          "title": "Chef Boyardee Microwave Pasta",
+          "savings": "Save Up To $4.90 On 10",
+          "offer": "10 for $10.00"
+        },
+        {
+          "title": "Publix Espresso Coffee",
+          "savings": "Save Up To $1.00",
+          "offer": "$5.99"
+        },
+        {
+          "title": "8-Pack Coca-Cola Soft Drink Products",
+          "savings": null,
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Hellmann's Mayonnaise, Vegan Dressing & Spread or Garlic Aioli",
+          "savings": "Your Choice",
+          "offer": "2 for $7.00"
+        },
+        {
+          "title": "Icelandic Glacial Water",
+          "savings": null,
+          "offer": "2 for $4.00"
+        },
+        {
+          "title": "La Famiglia DelGrosso Pasta Sauce",
+          "savings": "Your Choice",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Any 2 Manwich Sloppy Joe Sauces",
+          "savings": null,
+          "offer": "$1.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Nabisco Party Size Cookies or Crackers",
+          "savings": null,
+          "offer": "2 for $11.00"
+        },
+        {
+          "title": "On The Border Mexican Grill & Cantina Salsa or Queso",
+          "savings": null,
+          "offer": "2/$6.00"
+        },
+        {
+          "title": "Xochitl Tortilla Chips",
+          "savings": "Your Choice",
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "Peter Pan Peanut Butter",
+          "savings": "Your Choice",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Primal Kitchen Dressing & Marinade",
+          "savings": "Your Choice",
+          "offer": "$5.99"
+        },
+        {
+          "title": "Primal Kitchen Mayonnaise",
+          "savings": "Your Choice",
+          "offer": "$6.99"
+        },
+        {
+          "title": "GreenWise Sparkling Water",
+          "savings": null,
+          "offer": "$5.19"
+        },
+        {
+          "title": "GreenWise Organic Preserves",
+          "savings": null,
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "GreenWise Organic Coconut Aminos",
+          "savings": null,
+          "offer": "$4.99"
+        },
+        {
+          "title": "GreenWise Organic Ground Coffee",
+          "savings": null,
+          "offer": "$9.99"
+        },
+        {
+          "title": "Publix Tortilla Chips",
+          "savings": null,
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "Red Bull Energy Drink",
+          "savings": null,
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Royal Basmati Rice",
+          "savings": null,
+          "offer": "$8.99"
+        },
+        {
+          "title": "Skinnygirl Dressing made with Avocado Oil",
+          "savings": "Your Choice",
+          "offer": "$3.99"
+        },
+        {
+          "title": "Starkist Chunk Light Tuna",
+          "savings": null,
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Tate's Bake Shop Cookies",
+          "savings": null,
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Utz Snack Packs",
+          "savings": "Save Up To $3.00",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Utz Potato Chips",
+          "savings": "Save Up To $4.79 On 3",
+          "offer": "Buy 2 Get 1 FREE"
+        }
+      ]
+    },
+    {
+      "category": "Health & Nutrition",
+      "items": [
+        {
+          "title": "Barebells Protein Bar",
+          "savings": "Save Up To $1.00 On 2",
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "Tylenol Cold + Flu Medicine",
+          "savings": "Save $4.00",
+          "offer": "$4.00 Off"
+        },
+        {
+          "title": "Any 1 Advil, Advil PM or Advil Targeted Relief",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Advil Respiratory",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Aleve Pain Reliever",
+          "savings": null,
+          "offer": "$2.00 Off"
+        },
+        {
+          "title": "C4 Sport Pre-Workout Powder",
+          "savings": null,
+          "offer": "$5.00 Off"
+        },
+        {
+          "title": "Any 1 Caltrate",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Centrum",
+          "savings": null,
+          "offer": "$4.50 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "$5 off When You Spend $25 on: Claritin, AstePro, Miralax, One A Day, Flintstones, Citracal",
+          "savings": null,
+          "offer": "$5.00 off $25.00 WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Emergen-C",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Excedrin",
+          "savings": null,
+          "offer": "$3.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Publix Cold & Flu Medicine",
+          "savings": null,
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "Any 1 Robitussin",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Theraflu",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Vicks DayQuil & NyQuil Severe Combo 2-pk. 12-oz bottles or LiquiCaps 48-ct.",
+          "savings": "Your Choice",
+          "offer": "$23.39"
+        },
+        {
+          "title": "Vicks ZzzQuil Chamomile Honey, Calming Vanilla Cherry or Warming Berry 12-oz or LiquiCaps 24-ct.",
+          "savings": "Your Choice",
+          "offer": "$10.49"
+        },
+        {
+          "title": "Voltaren Arthritis Pain Topical Gel",
+          "savings": null,
+          "offer": "$5.00 Off"
+        },
+        {
+          "title": "Any 1 Voltaren",
+          "savings": null,
+          "offer": "$4.50 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Paper Coupon",
+          "savings": null,
+          "offer": null
+        },
+        {
+          "title": "Paper Coupon",
+          "savings": null,
+          "offer": null
+        }
+      ]
+    },
+    {
+      "category": "Baby",
+      "items": [
+        {
+          "title": "Huggies Diapers",
+          "savings": "Surprisingly Low Price",
+          "offer": "$10.00 Off With Every $40 Purchase of"
+        },
+        {
+          "title": "GreenWise Organic Baby Food",
+          "savings": "Save Up To $0.50 On 3",
+          "offer": "3 for $4.00"
+        }
+      ]
+    },
+    {
+      "category": "Beauty & Personal Care",
+      "items": [
+        {
+          "title": "Suave Hair Care Products",
+          "savings": "Surprisingly Low Price",
+          "offer": "15% Off"
+        },
+        {
+          "title": "Crest Mouthwash or Rinse",
+          "savings": "Save Up To $3.98 On 2",
+          "offer": "2 for $12.00"
+        },
+        {
+          "title": "Cerave Skin Care Products",
+          "savings": "Surprisingly Low Price",
+          "offer": "20% Off"
+        },
+        {
+          "title": "Crest 3D White Toothpaste",
+          "savings": "Save Up To $1.98 On 2",
+          "offer": "2 for $10.00"
+        },
+        {
+          "title": "Any 1 Always Pads 13\u201350-ct. or Liners 48\u2013120-ct.",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Always Discreet Underwear",
+          "savings": "Your Choice",
+          "offer": "$13.99"
+        },
+        {
+          "title": "Any 1 Always Discreet Pads 28\u201366-ct. or Underwear 10\u201332-ct.",
+          "savings": null,
+          "offer": "$3.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Aussie Shampoo or Conditioner",
+          "savings": "Your Choice",
+          "offer": "$4.99"
+        },
+        {
+          "title": "Crest 3D White Mouthwash",
+          "savings": "Your Choice",
+          "offer": "$7.99"
+        },
+        {
+          "title": "Crest 3D White Toothpaste 2.4-oz, Plus 4.6 or 5.4-oz or 2-pk 5.7-oz OR Pro-Health",
+          "savings": "Your Choice",
+          "offer": "2 for $8.00"
+        },
+        {
+          "title": "Free with every $15 purchase of Crest Toothpaste, Mouthwash, or Rinse",
+          "savings": null,
+          "offer": "Free $5 Gift Card"
+        },
+        {
+          "title": "Crest 3DWhitestrips Dental Whitening Kit",
+          "savings": null,
+          "offer": "$5.00 Off"
+        },
+        {
+          "title": "Olay Micro-Sculpting or Fragrance-Free Micro-Sculpting Cream",
+          "savings": "Your Choice",
+          "offer": "$4.00 off"
+        },
+        {
+          "title": "Any 2: Secret, Old Spice or Gillette Deodorants 1.6\u20137.6-oz, Olay or Old Spice Body Wash or Lotion",
+          "savings": null,
+          "offer": "$4.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Old Spice Body Wash",
+          "savings": "Your Choice",
+          "offer": "$1.50 off"
+        },
+        {
+          "title": "Oral-B Toothbrush, or Floss, or Floss Picks",
+          "savings": null,
+          "offer": "Buy 2 Get $2.00 Off"
+        },
+        {
+          "title": "Ivory Body Wash 35-oz or Bar Soap 10-ct.",
+          "savings": "Your Choice",
+          "offer": "$6.99"
+        },
+        {
+          "title": "Everpro Gray Away Products",
+          "savings": null,
+          "offer": "$8.99"
+        },
+        {
+          "title": "Panoxyl Acne Foaming Wash",
+          "savings": null,
+          "offer": "25% Off"
+        },
+        {
+          "title": "Schick Hydro 5 Razor Blade Refill Cartridges",
+          "savings": null,
+          "offer": "$3.00 Off"
+        },
+        {
+          "title": "Tampax Pearl Tampons 47\u201350-ct. or Always Ultra Overnight Pads 50-ct.",
+          "savings": "Your Choice",
+          "offer": "$11.49"
+        }
+      ]
+    },
+    {
+      "category": "Housewares",
+      "items": [
+        {
+          "title": "Brita Replacement Filter",
+          "savings": "Surprisingly Low Price",
+          "offer": "25% Off"
+        },
+        {
+          "title": "Air Wick Scented Oil Refill",
+          "savings": null,
+          "offer": "Buy 2 Get 1 FREE"
+        },
+        {
+          "title": "Any 1 Downy Scent Booster",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Febreze Scent Booster Oil Warmer",
+          "savings": null,
+          "offer": "Sale Price $9.99"
+        },
+        {
+          "title": "Febreze Bathroom",
+          "savings": "Your Choice",
+          "offer": "Sale Price $5.99"
+        }
+      ]
+    },
+    {
+      "category": "Non-Foods",
+      "items": [
+        {
+          "title": "Tide or Gain Laundry Detergent",
+          "savings": "Save Up To $1.60",
+          "offer": "$19.99"
+        },
+        {
+          "title": "Bounty Paper Towels",
+          "savings": null,
+          "offer": "Sales Price $16.99"
+        },
+        {
+          "title": "Persil Laundry Detergent",
+          "savings": "Save $4.00",
+          "offer": "$4.00 Off"
+        },
+        {
+          "title": "Cascade Dishwasher Detergent",
+          "savings": "Save Up To $3.50",
+          "offer": "$12.99"
+        },
+        {
+          "title": "Charmin Bathroom Tissue",
+          "savings": null,
+          "offer": "Sales Price $14.99"
+        },
+        {
+          "title": "Kleenex Facial Tissue",
+          "savings": "Surprisingly Low Price",
+          "offer": "3 for $5.00"
+        },
+        {
+          "title": "Naturalaire Air Filter",
+          "savings": "Save Up To $1.50",
+          "offer": "$5.99 each"
+        },
+        {
+          "title": "Kleenex Facial Tissues",
+          "savings": "Save Up To $8.98 On 2",
+          "offer": "2 for $11.00"
+        },
+        {
+          "title": "Ziploc Sandwich Bags",
+          "savings": "Save Up To $1.78 On 2",
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "Sparkle Paper Towels",
+          "savings": "Save Up To $2.90",
+          "offer": "$6.49"
+        },
+        {
+          "title": "Bounce Fabric Dryer Sheets",
+          "savings": null,
+          "offer": "$6.99"
+        },
+        {
+          "title": "Any 1 Cascade Platinum Plus 22-ct. or larger, Platinum 28-ct. or larger or Complete 38-ct. or larger",
+          "savings": null,
+          "offer": "$3.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Clorox Toilet Cleaning Gel",
+          "savings": null,
+          "offer": "2 for $5.00"
+        },
+        {
+          "title": "Clorox Bleach Foamer",
+          "savings": null,
+          "offer": "2 for $9.00"
+        },
+        {
+          "title": "Any 1 Dawn Powersuds 17.4 or 38-oz or Powerwash 16-oz",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Dawn Dish Soap",
+          "savings": null,
+          "offer": "2/$10.00"
+        },
+        {
+          "title": "Dixie Plates or Bowls",
+          "savings": "Save Up To $2.22 On 2",
+          "offer": "2 for $6.00"
+        },
+        {
+          "title": "Any 1 Downy Sheets",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Downy Rinse",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Fabuloso",
+          "savings": null,
+          "offer": "$1.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Glad Tall Kitchen Bags",
+          "savings": null,
+          "offer": "$8.49"
+        },
+        {
+          "title": "Mr. Clean Magic Eraser 3\u20134-ct. or Multi-Surface Cleaner 41-oz",
+          "savings": "Your Choice",
+          "offer": "Sale Price $5.99"
+        },
+        {
+          "title": "Naturalaire Microparticle Air Filter",
+          "savings": null,
+          "offer": "$9.99 each"
+        },
+        {
+          "title": "Any 1 Suavitel",
+          "savings": null,
+          "offer": "$1.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Any 1 Swiffer Refill Product or 3-ft. Duster Starter Kit",
+          "savings": null,
+          "offer": "$2.00 off WITH MFR DIGITAL COUPON"
+        },
+        {
+          "title": "Swiffer PowerMop Starter Kit",
+          "savings": "Your Choice",
+          "offer": "Sale Price $29.99"
+        },
+        {
+          "title": "Swiffer Sweep + Mop Deluxe Starter Kit",
+          "savings": null,
+          "offer": "Sale Price $19.99"
+        },
+        {
+          "title": "Any 1 Tide Pods 42-ct. or Liquid 73\u201384-oz",
+          "savings": null,
+          "offer": "$3.00 off WITH MFR DIGITAL COUPON"
+        }
+      ]
+    },
+    {
+      "category": "Pet",
+      "items": [
+        {
+          "title": "Evolve Classic Crafted Meals Dog Food",
+          "savings": null,
+          "offer": "10/$10.00"
+        }
+      ]
+    }
+  ]
+}

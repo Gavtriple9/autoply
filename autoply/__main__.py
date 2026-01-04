@@ -4,11 +4,15 @@ import asyncio
 import json
 from collections import OrderedDict
 from playwright.async_api import async_playwright, Page, ElementHandle
+from datetime import datetime, timezone, timedelta
 
 URL = "https://www.publix.com/savings/weekly-ad/bogo"
 
 CARD_SELECTOR = '[data-qa="savings-weekly-card"]'
 HEADING_SELECTOR = 'h2[id$="-heading"]'
+TITLE_SELECTOR = '[data-qa-automation="prod-title"]'
+SAVINGS_SELECTOR = "span.additional-info"
+OFFER_SELECTOR = ".p-savings-badge__text span"
 
 
 async def get_category_for_card(page: Page, card: ElementHandle) -> str | None:
@@ -64,28 +68,14 @@ async def get_card_metrics(page: Page) -> dict:
     )
 
 
-async def extract_title_text(card: ElementHandle) -> str | None:
-    title_el = await card.query_selector('[data-qa-automation="prod-title"]')
-    if title_el:
-        return (await title_el.inner_text()).strip()
+async def extract_text(card: ElementHandle, selector: str) -> str | None:
+    extract_text = await card.query_selector(selector)
+    if extract_text:
+        return (await extract_text.inner_text()).strip()
     return None
 
 
-async def extract_savings_text(card: ElementHandle) -> str | None:
-    savings_el = await card.query_selector("span.additional-info")
-    if savings_el:
-        return (await savings_el.inner_text()).strip()
-    return None
-
-
-async def extract_offer_text(card: ElementHandle) -> str | None:
-    offer_el = await card.query_selector(".p-savings-badge__text span")
-    if offer_el:
-        return (await offer_el.inner_text()).strip()
-    return None
-
-
-async def add_new_deals(master_list: list, new_deals: list):
+def add_new_deals(master_list: list, new_deals: list):
     existing_titles = {deal["title"] for deal in master_list}
     for deal in new_deals:
         if deal["title"] not in existing_titles:
@@ -109,13 +99,15 @@ def group_deals_by_category(deals: list[dict]) -> list[dict]:
 
         grouped[category].append(item)
 
-    return [
+    deals = [
         {
             "category": category,
             "items": items,
         }
         for category, items in grouped.items()
     ]
+    utc_now = datetime.now(timezone.utc).isoformat()
+    return {"timestamp": utc_now, "deals": deals}
 
 
 async def scrape_publix(page: Page, pause: float = 1.0) -> list:
@@ -144,7 +136,7 @@ async def scrape_publix(page: Page, pause: float = 1.0) -> list:
             break
 
         deals = await scrape_viewport(page)
-        await add_new_deals(clean_deals, deals)
+        add_new_deals(clean_deals, deals)
 
         # Scroll exactly one card down
         await page.evaluate("(y) => window.scrollTo(0, y)", scroll_y + card_height)
@@ -171,13 +163,13 @@ async def scrape_viewport(page: Page) -> list:
         if not visible:
             continue
 
-        title = await extract_title_text(card)
+        title = await extract_text(card, TITLE_SELECTOR)
         if not title:
             continue
 
         category = await get_category_for_card(page, card)
-        savings = await extract_savings_text(card)
-        offer = await extract_offer_text(card)
+        savings = await extract_text(card, SAVINGS_SELECTOR)
+        offer = await extract_text(card, OFFER_SELECTOR)
 
         deal = {
             "category": category,
@@ -192,30 +184,49 @@ async def scrape_viewport(page: Page) -> list:
 
 
 async def async_main():
-    async with async_playwright() as p:
-        browser = await p.firefox.launch(headless=False)
-        page = await browser.new_page(
-            color_scheme="dark", viewport={"width": 1280, "height": 1600}
-        )
+    try:
+        with open("publix.json", "r") as f:
+            data = json.load(f)
+            timestamp_str = data.get("timestamp")
+            if timestamp_str:
+                timestamp = datetime.fromisoformat(timestamp_str)
+                if datetime.now(timezone.utc) - timestamp < timedelta(days=7):
+                    print("Using cached publix.json file")
+                else:
+                    print("New deals available, refreshing cache")
+                    raise ValueError("Cached data is stale")
 
-        await page.goto(URL, wait_until="domcontentloaded")
+    except (FileNotFoundError, json.JSONDecodeError, AttributeError, ValueError):
+        print("Scraping Publix weekly ad...")
+        async with async_playwright() as p:
+            browser = await p.firefox.launch(headless=False)
+            page = await browser.new_page(
+                color_scheme="dark", viewport={"width": 1280, "height": 1600}
+            )
 
-        # Wait for the content wrapper to be present
-        await page.wait_for_selector(".weekly-ad-xp-content-wrapper", timeout=15000)
-        await asyncio.sleep(10)
-        print("Page loaded")
+            await page.goto(URL, wait_until="domcontentloaded")
 
-        deals = await scrape_publix(page, pause=0.0)
-        print(f"Total deals found: {len(deals)}")
-        await browser.close()
+            # Wait for the content wrapper to be present
+            await page.wait_for_selector(".weekly-ad-xp-content-wrapper", timeout=15000)
+            await asyncio.sleep(10)
+            print("Page loaded")
 
-    with open("publix.json", "w") as f:
-        json.dump(deals, f, indent=2)
+            flat_deals = await scrape_publix(page, pause=0.0)
+            await browser.close()
 
-    print(f"Scraped {len(deals)} deals\n")
+        data = group_deals_by_category(flat_deals)
+        print(f"Total deals found: {len(flat_deals)}")
 
-    for deal in deals[:5]:
-        print(deal)
+        with open("publix.json", "w") as f:
+            json.dump(data, f, indent=2)
+
+    num_items = 0
+    for cat in data["deals"]:
+        print(cat["category"], "→", len(cat["items"]), "items")
+        num_items += len(cat["items"])
+
+    print(f"Total categories found: {len(data["deals"])}")
+    print("Total items found ", num_items)
 
 
 def main():
