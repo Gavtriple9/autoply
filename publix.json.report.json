@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-01-04T20:20:44.236111+00:00",
+  "categories": 19,
+  "items": 596,
+  "savings_kind_counts": {
+    "save_up_to": 337,
+    "null": 145,
+    "text": 111,
+    "save": 3
+  },
+  "offer_kind_counts": {
+    "bogo": 197,
+    "price": 265,
+    "multibuy": 81,
+    "text": 29,
+    "coupon": 22,
+    "null": 2
+  },
+  "warnings": [],
+  "input": "publix.json",
+  "output": "publix.json.sanitized.json",
+  "repaired": false,
+  "repair_note": null
+}

@@ -1,0 +1,50 @@
+I want you to create a **weekly meal plan** for 6 people that includes **4 healthy, balanced dishes**. Each dish should include:
+
+- A clear name
+- Main protein
+- Key vegetables
+- Optional grains or sides
+- Brief description of why it’s healthy
+
+I will provide a **JSON file containing deals** with prices and items. You must **prioritize using items from the JSON deals** where possible to **minimize cost**, while keeping the meals healthy and balanced.
+
+Please also produce a **consolidated ingredient list** for all 4 dishes. For each ingredient, indicate:
+
+- Name
+- Quantity needed (approximate for 6 servings)
+- If it’s included in the deals JSON (yes/no)
+
+Output format should be **JSON** with this structure:
+
+```json
+{
+  "meals": [
+      {
+        "dish_name": "",
+        "description": "",
+        "total_time": 0,
+        "ingredients": [],
+        "recipe": [
+          "step1", "step2", ...
+        ]
+      },
+      ...
+  ],
+  "ingredient_list": [
+      {
+        "ingredient": "",
+        "quantity": "",
+        "in_deals": "yes/no"
+      },
+      ...
+  ]
+}
+```
+
+**Constraints:**
+
+- Only 4 dishes per week
+- Each dish must feed 6 people
+- Include a mix of proteins (meat, seafood, or plant-based)
+- Minimize cost using the JSON deals
+- Keep dishes healthy (high protein, fiber, vitamins; moderate carbs; low added sugars)

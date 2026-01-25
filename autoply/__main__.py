@@ -241,7 +241,7 @@ async def scrape_viewport(page: Page) -> list:
 
     for card in cards:
         # Only cards currently in viewport
-        if not is_element_visible(card):
+        if not await is_element_visible(card):
             continue
 
         title = await extract_text(card, TITLE_SELECTOR)
@@ -261,6 +261,7 @@ async def scrape_viewport(page: Page) -> list:
 
         deals.append(deal)
 
+    print(f"Found {len(deals)} deals in viewport")
     return deals
 
 
@@ -289,7 +290,7 @@ async def async_main():
 
             # Wait for the content wrapper to be present
             await page.wait_for_selector(".weekly-ad-xp-content-wrapper", timeout=15000)
-            await asyncio.sleep(10)
+            await asyncio.sleep(30)
             print("Page loaded")
 
             flat_deals = await scrape_publix(page)
