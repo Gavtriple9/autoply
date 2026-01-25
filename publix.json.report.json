@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-01-04T20:20:44.236111+00:00",
-  "categories": 19,
-  "items": 596,
+  "generated_at": "2026-01-25T19:38:56.850913+00:00",
+  "categories": 18,
+  "items": 524,
   "savings_kind_counts": {
-    "save_up_to": 337,
-    "null": 145,
-    "text": 111,
-    "save": 3
+    "save_up_to": 275,
+    "text": 115,
+    "null": 133,
+    "save": 1
   },
   "offer_kind_counts": {
-    "bogo": 197,
-    "price": 265,
-    "multibuy": 81,
-    "text": 29,
-    "coupon": 22,
-    "null": 2
+    "bogo": 167,
+    "price": 214,
+    "multibuy": 91,
+    "null": 1,
+    "text": 28,
+    "coupon": 23
   },
   "warnings": [],
   "input": "publix.json",
