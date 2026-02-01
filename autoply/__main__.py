@@ -6,6 +6,8 @@ from collections import OrderedDict
 from playwright.async_api import async_playwright, Page, ElementHandle
 from datetime import datetime, timezone, timedelta
 
+from autoply.plan import generate_meal_plan_with_recipes
+
 URL = "https://www.publix.com/savings/weekly-ad/bogo"
 
 CARD_SELECTOR = '[data-qa="savings-weekly-card"]'
@@ -302,12 +304,28 @@ async def async_main():
             json.dump(data, f, indent=2)
 
     num_items = 0
-    for cat in data["deals"]:
+    deals = data["deals"]
+    for cat in deals:
         print(cat["category"], "→", len(cat["items"]), "items")
         num_items += len(cat["items"])
 
-    print(f"Total categories found: {len(data["deals"])}")
+    print(f"Total categories found: {len(deals)}")
     print("Total items found ", num_items)
+
+    try:
+        with open("family.json", "r") as f:
+            family = json.load(f)
+
+    except (FileNotFoundError, json.JSONDecodeError):
+        print("No family.json file found, please create one with family preferences.")
+        return
+
+    meal_plan = generate_meal_plan_with_recipes(
+        deals, family, num_dinners=4, num_people=len(family)
+    )
+    print("Generated meal plan:", meal_plan)
+    with open("meal_plan.json", "w") as f:
+        json.dump(meal_plan, f, indent=2)
 
 
 def main():
