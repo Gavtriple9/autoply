@@ -1,0 +1,183 @@
+{
+    "meals": [
+        {
+            "dish_name": "Lemon Garlic Roasted Chicken with Quinoa and Salad",
+            "description": "A high-protein, fiber-rich meal utilizing BOGO chicken and quinoa. It provides lean protein and essential vitamins from fresh greens.",
+            "total_time": 35,
+            "ingredients": [
+                "Publix Boneless Skinless Chicken Breasts",
+                "Seeds of Change Quinoa & Rice",
+                "Fresh Express Salad Blends",
+                "Badia Garlic Powder",
+                "Lemon juice",
+                "Pompeian Imported Olive Oil"
+            ],
+            "recipe": [
+                "Preheat oven to 400°F (200°C).",
+                "Season chicken breasts with garlic powder, salt, pepper, and a squeeze of lemon.",
+                "Roast chicken for 20-25 minutes until internal temperature reaches 165°F.",
+                "While chicken roasts, prepare the Quinoa & Rice according to package instructions.",
+                "Toss the salad blends with a light dressing of olive oil and lemon.",
+                "Slice chicken and serve over a bed of quinoa with the salad on the side."
+            ]
+        },
+        {
+            "dish_name": "High-Fiber Mediterranean Shrimp & Mushroom Pasta",
+            "description": "A heart-healthy seafood dish using low-carb, high-fiber pasta and protein-packed shrimp. Mushrooms and spinach add volume and antioxidants while keeping the meal light.",
+            "total_time": 25,
+            "ingredients": [
+                "White Shrimp (Peeled & Deveined)",
+                "Carbe Diem! Pasta",
+                "GreenWise Organic White Mushrooms",
+                "Fresh Express Salad Blends (Spinach or Greens)",
+                "Gia Russa Select Pasta Sauce",
+                "Badia Garlic Powder",
+                "Pompeian Imported Olive Oil"
+            ],
+            "recipe": [
+                "Boil a large pot of water and cook the Carbe Diem! pasta according to package directions.",
+                "In a large skillet, sauté sliced mushrooms in olive oil until browned.",
+                "Add the shrimp and garlic powder to the skillet, cooking until shrimp are pink and opaque (about 3-4 minutes).",
+                "Stir in the pasta sauce and a handful of fresh greens, simmering until the greens wilt.",
+                "Drain the pasta and toss it directly into the skillet with the shrimp and sauce mixture.",
+                "Serve hot, optionally topped with a squeeze of fresh lemon."
+            ]
+        },
+        {
+            "dish_name": "Hearty Beef and Vegetable Stew",
+            "description": "A comforting, nutrient-dense stew utilizing lean ground beef and mineral-rich bone broth. This one-pot meal is packed with fiber from root vegetables.",
+            "total_time": 55,
+            "ingredients": [
+                "Lean Ground Beef",
+                "Bonafide Provisions Broth",
+                "GreenWise Organic Baby Carrots",
+                "Publix Yellow Onions",
+                "Publix Red Potatoes",
+                "Celery"
+            ],
+            "recipe": [
+                "In a large pot, brown the ground beef over medium heat and drain any excess fat.",
+                "Add chopped onions, carrots, and celery; cook until the onions are translucent (about 5-7 minutes).",
+                "Pour in the bone broth and add the cubed red potatoes.",
+                "Bring to a boil, then reduce heat and simmer for 30-40 minutes until the potatoes and carrots are fork-tender.",
+                "Season with salt, pepper, and herbs to taste before serving in bowls."
+            ]
+        },
+        {
+            "dish_name": "Saffron Yellow Rice with Roasted Asparagus and Chicken Sausage",
+            "description": "A quick, balanced meal featuring lean chicken sausage and flavorful rice. Asparagus provides high levels of vitamins K and A for a healthy nutritional profile.",
+            "total_time": 30,
+            "ingredients": [
+                "Amylu Breakfast Bites Chicken Sausage",
+                "Vigo Saffron Yellow Rice",
+                "Asparagus",
+                "Badia Garlic Powder",
+                "Pompeian Imported Olive Oil"
+            ],
+            "recipe": [
+                "Prepare the Saffron Yellow Rice on the stovetop as directed on the package (usually takes 20-25 minutes).",
+                "Toss the asparagus spears in olive oil, garlic powder, salt, and pepper.",
+                "Roast the asparagus at 400°F (200°C) for 12-15 minutes until tender-crisp.",
+                "While asparagus roasts, brown the chicken sausage bites in a skillet for 5-7 minutes until heated through.",
+                "Serve the sausage and roasted asparagus over a warm bed of saffron rice."
+            ]
+        }
+    ],
+    "ingredient_list": [
+        {
+            "ingredient": "Publix Boneless Skinless Chicken Breasts",
+            "quantity": "3 lbs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "White Shrimp (Peeled & Deveined)",
+            "quantity": "2 lbs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Lean Ground Beef",
+            "quantity": "2.5 lbs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Amylu Breakfast Bites Chicken Sausage",
+            "quantity": "3 packs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Seeds of Change Quinoa & Rice",
+            "quantity": "3 packs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Carbe Diem! Pasta",
+            "quantity": "2 boxes (12 oz each)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Vigo Saffron Yellow Rice",
+            "quantity": "4 packs (5 oz each)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Fresh Express Salad Blends",
+            "quantity": "3 bags",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "GreenWise Organic White Mushrooms",
+            "quantity": "16 oz",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Gia Russa Select Pasta Sauce",
+            "quantity": "1 jar (24 oz)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Bonafide Provisions Broth",
+            "quantity": "3 cartons (24 oz each)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Asparagus",
+            "quantity": "2 lbs",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "GreenWise Organic Baby Carrots",
+            "quantity": "2 bags (1 lb each)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Publix Red Potatoes",
+            "quantity": "1 bag (5 lbs)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Publix Yellow Onions",
+            "quantity": "1 bag (3 lbs)",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Badia Garlic Powder",
+            "quantity": "1 jar",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Pompeian Imported Olive Oil",
+            "quantity": "1 bottle",
+            "in_deals": "yes"
+        },
+        {
+            "ingredient": "Lemons",
+            "quantity": "4 whole",
+            "in_deals": "no"
+        },
+        {
+            "ingredient": "Celery",
+            "quantity": "1 bunch",
+            "in_deals": "no"
+        }
+    ]
+}
